@@ -1,0 +1,1477 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="SkySpNews.uk" tvg-name="GB: SKY SPORTS NEWS HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS NEWS HD
+http://iptvglobal.uk:8080/live/all/all/463.ts
+#EXTINF:-1 tvg-ID="Sky Sports News" tvg-name="GB: SKY SPORTS NEWS SD/HD" tvg-logo="" group-title="UK NEWS",GB: SKY SPORTS NEWS SD/HD
+http://iptvglobal.uk:8080/live/all/all/28525.ts
+#EXTINF:-1 tvg-ID="Sky Sports Main Event HD" tvg-name="GB: SKY SPORTS MAIN EVENT FHD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS MAIN EVENT FHD
+http://iptvglobal.uk:8080/live/all/all/28518.ts
+#EXTINF:-1 tvg-ID="SkySpMainEv.uk" tvg-name="GB: SKY SPORTS MAIN EVENT HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS MAIN EVENT HD
+http://iptvglobal.uk:8080/live/all/all/197.ts
+#EXTINF:-1 tvg-ID="SkySpMainEv.uk" tvg-name="GB: SKY SPORTS MAIN EVENT SD/HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS MAIN EVENT SD/HD
+http://iptvglobal.uk:8080/live/all/all/742.ts
+#EXTINF:-1 tvg-ID="SkySpPL.uk" tvg-name="GB: SKY SPORTS PREMIERE LEAGUE FHD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS PREMIERE LEAGUE FHD
+http://iptvglobal.uk:8080/live/all/all/1619.ts
+#EXTINF:-1 tvg-ID="SkySpPL.uk" tvg-name="GB: SKY SPORTS PREMIER LEAGUE HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS PREMIER LEAGUE HD
+http://iptvglobal.uk:8080/live/all/all/201.ts
+#EXTINF:-1 tvg-ID="SkySpPL.uk" tvg-name="GB: SKY SPORTS PREMIER LEAGUE SD/HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS PREMIER LEAGUE SD/HD
+http://iptvglobal.uk:8080/live/all/all/1873.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB:SKY SPORTS FOOTBALL FHD" tvg-logo="" group-title="UK SPORTS",GB:SKY SPORTS FOOTBALL FHD
+http://iptvglobal.uk:8080/live/all/all/28514.ts
+#EXTINF:-1 tvg-ID="SkySpFball.uk" tvg-name="GB: SKY SPORTS FOOTBALL SD/HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS FOOTBALL SD/HD
+http://iptvglobal.uk:8080/live/all/all/5388.ts
+#EXTINF:-1 tvg-ID="SkySpFball.uk" tvg-name="GB: SKY SPORTS FOOTBALL HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS FOOTBALL HD
+http://iptvglobal.uk:8080/live/all/all/4908.ts
+#EXTINF:-1 tvg-ID="SkySpCricket.uk" tvg-name="GB: SKY SPORTS CRICKET FHD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS CRICKET FHD
+http://iptvglobal.uk:8080/live/all/all/1875.ts
+#EXTINF:-1 tvg-ID="Sky Sports Cricket" tvg-name="GB: SKY SPORTS CRICKET HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS CRICKET HD
+http://iptvglobal.uk:8080/live/all/all/198.ts
+#EXTINF:-1 tvg-ID="SkySpCricket.uk" tvg-name="GB: SKY SPORTS CRICKET SD/HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS CRICKET SD/HD
+http://iptvglobal.uk:8080/live/all/all/743.ts
+#EXTINF:-1 tvg-ID="Sky Sports 3" tvg-name="GB: SKY SPORTS ACTION FHD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS ACTION FHD
+http://iptvglobal.uk:8080/live/all/all/1874.ts
+#EXTINF:-1 tvg-ID="SkySpAction.uk" tvg-name="GB: SKY SPORTS ACTION HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS ACTION HD
+http://iptvglobal.uk:8080/live/all/all/3437.ts
+#EXTINF:-1 tvg-ID="Sky Sports 3" tvg-name="GB: SKY SPORTS ACTION SD/HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS ACTION SD/HD
+http://iptvglobal.uk:8080/live/all/all/63.ts
+#EXTINF:-1 tvg-ID="SkySpF1.uk" tvg-name="GB: SKY SPORTS F1 HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS F1 HD
+http://iptvglobal.uk:8080/live/all/all/230.ts
+#EXTINF:-1 tvg-ID="SkySpF1.uk" tvg-name="GB: SKY SPORTS F1 SD/HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS F1 SD/HD
+http://iptvglobal.uk:8080/live/all/all/202.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: SKY SPORTS ARENA FHD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS ARENA FHD
+http://iptvglobal.uk:8080/live/all/all/28507.ts
+#EXTINF:-1 tvg-ID="SkySpArena.uk" tvg-name="GB: SKY SPORTS ARENA HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS ARENA HD
+http://iptvglobal.uk:8080/live/all/all/13538.ts
+#EXTINF:-1 tvg-ID="SkySpArena.uk" tvg-name="GB: SKY SPORTS ARENA SD/HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS ARENA SD/HD
+http://iptvglobal.uk:8080/live/all/all/13539.ts
+#EXTINF:-1 tvg-ID="SkySpTheOpen.uk" tvg-name="GB: SKY SPORTS OPEN FHD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS OPEN FHD
+http://iptvglobal.uk:8080/live/all/all/1878.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: SKY SPORTS GOLF HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS GOLF HD
+http://iptvglobal.uk:8080/live/all/all/28502.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: Sky SPORTS GOLF SD/HD" tvg-logo="" group-title="UK SPORTS",GB: Sky SPORTS GOLF SD/HD
+http://iptvglobal.uk:8080/live/all/all/28488.ts
+#EXTINF:-1 tvg-ID="SkySpTheOpen.uk" tvg-name="GB: SKY SPORTS OPEN HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS OPEN HD
+http://iptvglobal.uk:8080/live/all/all/200.ts
+#EXTINF:-1 tvg-ID="SkySp Golf" tvg-name="GB: SKY SPORTS OPEN SD/HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS OPEN SD/HD
+http://iptvglobal.uk:8080/live/all/all/745.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: SKY SPORTS MIX HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS MIX HD
+http://iptvglobal.uk:8080/live/all/all/28499.ts
+#EXTINF:-1 tvg-ID="SkySpMix.uk" tvg-name="GB: SKY SPORTS MIX SD/HD" tvg-logo="" group-title="UK SPORTS",GB: SKY SPORTS MIX SD/HD
+http://iptvglobal.uk:8080/live/all/all/462.ts
+#EXTINF:-1 tvg-ID="BT Sport 1" tvg-name="GB: BT SPORTS 1 FHD" tvg-logo="" group-title="UK SPORTS",GB: BT SPORTS 1 FHD
+http://iptvglobal.uk:8080/live/all/all/2204.ts
+#EXTINF:-1 tvg-ID="BTSport1.uk" tvg-name="GB: BT SPORTS 1 HD" tvg-logo="" group-title="UK SPORTS",GB: BT SPORTS 1 HD
+http://iptvglobal.uk:8080/live/all/all/228.ts
+#EXTINF:-1 tvg-ID="BT Sport 1" tvg-name="GB: BT SPORTS 1 SD/HD" tvg-logo="" group-title="UK SPORTS",GB: BT SPORTS 1 SD/HD
+http://iptvglobal.uk:8080/live/all/all/26915.ts
+#EXTINF:-1 tvg-ID="BTSport2.uk" tvg-name="GB: BT SPORTS 2 FHD" tvg-logo="" group-title="UK SPORTS",GB: BT SPORTS 2 FHD
+http://iptvglobal.uk:8080/live/all/all/2205.ts
+#EXTINF:-1 tvg-ID="BTSport2.uk" tvg-name="GB: BT SPORTS 2 HD" tvg-logo="" group-title="UK SPORTS",GB: BT SPORTS 2 HD
+http://iptvglobal.uk:8080/live/all/all/2163.ts
+#EXTINF:-1 tvg-ID="BTSport2.uk" tvg-name="GB: BT SPORTS 2 SD/HD" tvg-logo="" group-title="UK SPORTS",GB: BT SPORTS 2 SD/HD
+http://iptvglobal.uk:8080/live/all/all/229.ts
+#EXTINF:-1 tvg-ID="BT Sport 3 HD" tvg-name="GB: BT SPORTS 3 SD/HD" tvg-logo="" group-title="UK SPORTS",GB: BT SPORTS 3 SD/HD
+http://iptvglobal.uk:8080/live/all/all/26920.ts
+#EXTINF:-1 tvg-ID="BTSport3.uk" tvg-name="GB: BT SPORTS 3 HD" tvg-logo="" group-title="UK SPORTS",GB: BT SPORTS 3 HD
+http://iptvglobal.uk:8080/live/all/all/2206.ts
+#EXTINF:-1 tvg-ID="BTSportESPN.uk" tvg-name="GB: BT SPORTS ESPN HD" tvg-logo="" group-title="UK SPORTS",GB: BT SPORTS ESPN HD
+http://iptvglobal.uk:8080/live/all/all/222.ts
+#EXTINF:-1 tvg-ID="BTSportESPN.uk" tvg-name="GB: BT SPORTS ESPN SD/HD" tvg-logo="" group-title="UK SPORTS",GB: BT SPORTS ESPN SD/HD
+http://iptvglobal.uk:8080/live/all/all/2421.ts
+#EXTINF:-1 tvg-ID="At The Races" tvg-name="GB: AT THE RACES HD" tvg-logo="" group-title="UK SPORTS",GB: AT THE RACES HD
+http://iptvglobal.uk:8080/live/all/all/28479.ts
+#EXTINF:-1 tvg-ID="At The Races" tvg-name="GB: AT THE RACES SD/HD" tvg-logo="" group-title="UK SPORTS",GB: AT THE RACES SD/HD
+http://iptvglobal.uk:8080/live/all/all/1323.ts
+#EXTINF:-1 tvg-ID="RacingUK.uk" tvg-name="GB: RACING UK HD" tvg-logo="" group-title="UK SPORTS",GB: RACING UK HD
+http://iptvglobal.uk:8080/live/all/all/1451.ts
+#EXTINF:-1 tvg-ID="RacingUK.uk" tvg-name="GB: RACING UK SD/HD" tvg-logo="" group-title="UK SPORTS",GB: RACING UK SD/HD
+http://iptvglobal.uk:8080/live/all/all/14200.ts
+#EXTINF:-1 tvg-ID="BoxNation.uk" tvg-name="GB: BOX NATION HD" tvg-logo="" group-title="UK SPORTS",GB: BOX NATION HD
+http://iptvglobal.uk:8080/live/all/all/231.ts
+#EXTINF:-1 tvg-ID="BoxNation" tvg-name="GB: BOX NATION SD/HD" tvg-logo="" group-title="UK SPORTS",GB: BOX NATION SD/HD
+http://iptvglobal.uk:8080/live/all/all/26905.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: UFC FIGHT PASS SD/HD" tvg-logo="" group-title="UK SPORTS",GB: UFC FIGHT PASS SD/HD
+http://iptvglobal.uk:8080/live/all/all/1423.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: WWE SD/HD" tvg-logo="" group-title="UK SPORTS",GB: WWE SD/HD
+http://iptvglobal.uk:8080/live/all/all/2170.ts
+#EXTINF:-1 tvg-ID="FreeSports" tvg-name="GB: FREE SPORTS" tvg-logo="" group-title="UK SPORTS",GB: FREE SPORTS
+http://iptvglobal.uk:8080/live/all/all/31304.ts
+#EXTINF:-1 tvg-ID="Setanta" tvg-name="GB: SETANTA SPORTS SD/HD" tvg-logo="" group-title="UK SPORTS",GB: SETANTA SPORTS SD/HD
+http://iptvglobal.uk:8080/live/all/all/5006.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: EIR SPORTS 1 HD" tvg-logo="" group-title="UK SPORTS",GB: EIR SPORTS 1 HD
+http://iptvglobal.uk:8080/live/all/all/28476.ts
+#EXTINF:-1 tvg-ID="eirSport1.ie" tvg-name="GB: EIR SPORTS 1 SD/HD" tvg-logo="" group-title="UK SPORTS",GB: EIR SPORTS 1 SD/HD
+http://iptvglobal.uk:8080/live/all/all/1168.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: EIR Sports 2 SD/HD" tvg-logo="" group-title="UK SPORTS",GB: EIR Sports 2 SD/HD
+http://iptvglobal.uk:8080/live/all/all/28475.ts
+#EXTINF:-1 tvg-ID="eirSport2.ie" tvg-name="GB: EIR SPORTS 2 HD" tvg-logo="" group-title="UK SPORTS",GB: EIR SPORTS 2 HD
+http://iptvglobal.uk:8080/live/all/all/2210.ts
+#EXTINF:-1 tvg-ID="Eurosport1.uk" tvg-name="GB: EUROSPORT 1 HD" tvg-logo="" group-title="UK SPORTS",GB: EUROSPORT 1 HD
+http://iptvglobal.uk:8080/live/all/all/232.ts
+#EXTINF:-1 tvg-ID="Eurosport1.uk" tvg-name="GB: EUROSPORT 1 SD/HD" tvg-logo="" group-title="UK SPORTS",GB: EUROSPORT 1 SD/HD
+http://iptvglobal.uk:8080/live/all/all/2214.ts
+#EXTINF:-1 tvg-ID="Eurosport2.uk" tvg-name="GB: EUROSPORT 2 HD" tvg-logo="" group-title="UK SPORTS",GB: EUROSPORT 2 HD
+http://iptvglobal.uk:8080/live/all/all/752.ts
+#EXTINF:-1 tvg-ID="Eurosport2.uk" tvg-name="GB: EUROSPORT 2 SD/HD" tvg-logo="" group-title="UK SPORTS",GB: EUROSPORT 2 SD/HD
+http://iptvglobal.uk:8080/live/all/all/2213.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: PREMIER SPORTS HD" tvg-logo="" group-title="UK SPORTS",GB: PREMIER SPORTS HD
+http://iptvglobal.uk:8080/live/all/all/26971.ts
+#EXTINF:-1 tvg-ID="PremierSports.uk" tvg-name="GB: PREMIER SPORTS SD/HD" tvg-logo="" group-title="UK SPORTS",GB: PREMIER SPORTS SD/HD
+http://iptvglobal.uk:8080/live/all/all/2215.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: Rangers TV HD(Live During SPL)" tvg-logo="" group-title="UK SPORTS",GB: Rangers TV HD(Live During SPL)
+http://iptvglobal.uk:8080/live/all/all/28473.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: Celtic TV HD (Live During SPL)" tvg-logo="" group-title="UK SPORTS",GB: Celtic TV HD (Live During SPL)
+http://iptvglobal.uk:8080/live/all/all/28472.ts
+#EXTINF:-1 tvg-ID="LiverpoolFCTV.uk" tvg-name="GB: LFC TV SD/HD" tvg-logo="" group-title="UK SPORTS",GB: LFC TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/2212.ts
+#EXTINF:-1 tvg-ID="MUTV.uk" tvg-name="GB: MUTV HD" tvg-logo="" group-title="UK SPORTS",GB: MUTV HD
+http://iptvglobal.uk:8080/live/all/all/986.ts
+#EXTINF:-1 tvg-ID="MUTV" tvg-name="GB: MUTV SD/HD" tvg-logo="" group-title="UK SPORTS",GB: MUTV SD/HD
+http://iptvglobal.uk:8080/live/all/all/26940.ts
+#EXTINF:-1 tvg-ID="Chelsea TV HD" tvg-name="GB: CHELSEA TV HD" tvg-logo="" group-title="UK SPORTS",GB: CHELSEA TV HD
+http://iptvglobal.uk:8080/live/all/all/26944.ts
+#EXTINF:-1 tvg-ID="ChelseaTV.uk" tvg-name="GB: CHELSEA TV SD/HD" tvg-logo="" group-title="UK SPORTS",GB: CHELSEA TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/559.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: MOTOGP LIVE 1" tvg-logo="" group-title="UK SPORTS",GB: MOTOGP LIVE 1
+http://iptvglobal.uk:8080/live/all/all/31139.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: MOTOGP LIVE 2" tvg-logo="" group-title="UK SPORTS",GB: MOTOGP LIVE 2
+http://iptvglobal.uk:8080/live/all/all/31138.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: MOTOGP LIVE 3" tvg-logo="" group-title="UK SPORTS",GB: MOTOGP LIVE 3
+http://iptvglobal.uk:8080/live/all/all/31137.ts
+#EXTINF:-1 tvg-ID="BT Sport X1" tvg-name="GB: BT SPORTA EXTRA 1 SD/HD" tvg-logo="" group-title="UK SPORTS",GB: BT SPORTA EXTRA 1 SD/HD
+http://iptvglobal.uk:8080/live/all/all/7079.ts
+#EXTINF:-1 tvg-ID="BT Sport X2" tvg-name="GB: BT SPORTS EXTRA 2 SD/HD" tvg-logo="" group-title="UK SPORTS",GB: BT SPORTS EXTRA 2 SD/HD
+http://iptvglobal.uk:8080/live/all/all/7078.ts
+#EXTINF:-1 tvg-ID="BT Sport X3" tvg-name="GB: BT SPORTS EXTRA 3 SD/HD" tvg-logo="" group-title="UK SPORTS",GB: BT SPORTS EXTRA 3 SD/HD
+http://iptvglobal.uk:8080/live/all/all/7077.ts
+#EXTINF:-1 tvg-ID="BT Sport X4" tvg-name="GB: BT SPORTS EXTRA 4 SD/HD" tvg-logo="" group-title="UK SPORTS",GB: BT SPORTS EXTRA 4 SD/HD
+http://iptvglobal.uk:8080/live/all/all/7076.ts
+#EXTINF:-1 tvg-ID="BT Sport X5" tvg-name="GB: BT SPORTS EXTRA 5 SD/HD" tvg-logo="" group-title="UK SPORTS",GB: BT SPORTS EXTRA 5 SD/HD
+http://iptvglobal.uk:8080/live/all/all/7075.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: ITV BOX OFFICE PPV HD" tvg-logo="" group-title="UK SPORTS",GB: ITV BOX OFFICE PPV HD
+http://iptvglobal.uk:8080/live/all/all/26923.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: TEST" tvg-logo="" group-title="UK SPORTS",GB: TEST
+http://iptvglobal.uk:8080/live/all/all/28617.ts
+#EXTINF:-1 tvg-ID="NBC Sports Network" tvg-name="3PM: NBCSN HD" tvg-logo="" group-title="3 PM & PL",3PM: NBCSN HD
+http://iptvglobal.uk:8080/live/all/all/27030.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: NBC EPL 1 HD" tvg-logo="" group-title="3 PM & PL",3PM: NBC EPL 1 HD
+http://iptvglobal.uk:8080/live/all/all/27046.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: NBC EPL 2 SD" tvg-logo="" group-title="3 PM & PL",3PM: NBC EPL 2 SD
+http://iptvglobal.uk:8080/live/all/all/27043.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: NBC EPL 1 SD" tvg-logo="" group-title="3 PM & PL",3PM: NBC EPL 1 SD
+http://iptvglobal.uk:8080/live/all/all/27045.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: NBC EPL 2 HD" tvg-logo="" group-title="3 PM & PL",3PM: NBC EPL 2 HD
+http://iptvglobal.uk:8080/live/all/all/27044.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: NBC EPL 3 HD" tvg-logo="" group-title="3 PM & PL",3PM: NBC EPL 3 HD
+http://iptvglobal.uk:8080/live/all/all/27042.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: NBC EPL 3 SD" tvg-logo="" group-title="3 PM & PL",3PM: NBC EPL 3 SD
+http://iptvglobal.uk:8080/live/all/all/27041.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: NBC EPL 4 HD" tvg-logo="" group-title="3 PM & PL",3PM: NBC EPL 4 HD
+http://iptvglobal.uk:8080/live/all/all/27040.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: NBC EPL 4 SD" tvg-logo="" group-title="3 PM & PL",3PM: NBC EPL 4 SD
+http://iptvglobal.uk:8080/live/all/all/27039.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: NBC EPL 5 HD" tvg-logo="" group-title="3 PM & PL",3PM: NBC EPL 5 HD
+http://iptvglobal.uk:8080/live/all/all/27038.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: NBC EPL 5 SD" tvg-logo="" group-title="3 PM & PL",3PM: NBC EPL 5 SD
+http://iptvglobal.uk:8080/live/all/all/27037.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: NBC EPL 6 HD" tvg-logo="" group-title="3 PM & PL",3PM: NBC EPL 6 HD
+http://iptvglobal.uk:8080/live/all/all/27036.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: NBC EPL 6 SD" tvg-logo="" group-title="3 PM & PL",3PM: NBC EPL 6 SD
+http://iptvglobal.uk:8080/live/all/all/27035.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: NBC EPL 7 HD" tvg-logo="" group-title="3 PM & PL",3PM: NBC EPL 7 HD
+http://iptvglobal.uk:8080/live/all/all/27034.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: NBC EPL 7 SD" tvg-logo="" group-title="3 PM & PL",3PM: NBC EPL 7 SD
+http://iptvglobal.uk:8080/live/all/all/27033.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: NBC Goal Rush HD" tvg-logo="" group-title="3 PM & PL",3PM: NBC Goal Rush HD
+http://iptvglobal.uk:8080/live/all/all/27032.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: NBC Goal Rush SD" tvg-logo="" group-title="3 PM & PL",3PM: NBC Goal Rush SD
+http://iptvglobal.uk:8080/live/all/all/27031.ts
+#EXTINF:-1 tvg-ID="SkyMoviesPremiere.uk" tvg-name="GB: SKY MOVIES PREMIERE HD" tvg-logo="" group-title="UK MOVIES",GB: SKY MOVIES PREMIERE HD
+http://iptvglobal.uk:8080/live/all/all/205.ts
+#EXTINF:-1 tvg-ID="SkyMoviesPremiere.uk" tvg-name="GB: SKY MOVIES PREMIERE SD/HD" tvg-logo="" group-title="UK MOVIES",GB: SKY MOVIES PREMIERE SD/HD
+http://iptvglobal.uk:8080/live/all/all/1953.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: SKY CINEMA PREMIERE  +1 HD" tvg-logo="" group-title="UK MOVIES",GB: SKY CINEMA PREMIERE  +1 HD
+http://iptvglobal.uk:8080/live/all/all/28464.ts
+#EXTINF:-1 tvg-ID="SkyMoviesActionThriller.uk" tvg-name="GB: SKY MOVIES ACTION HD" tvg-logo="" group-title="UK MOVIES",GB: SKY MOVIES ACTION HD
+http://iptvglobal.uk:8080/live/all/all/1958.ts
+#EXTINF:-1 tvg-ID="Sky Cinema Action & Adventure" tvg-name="GB: SKY CINEMA ACTION SD/HD" tvg-logo="" group-title="UK MOVIES",GB: SKY CINEMA ACTION SD/HD
+http://iptvglobal.uk:8080/live/all/all/26993.ts
+#EXTINF:-1 tvg-ID="SkyMoviesComedy.uk" tvg-name="GB: SKY CINEMA COMEDY HD" tvg-logo="" group-title="UK MOVIES",GB: SKY CINEMA COMEDY HD
+http://iptvglobal.uk:8080/live/all/all/1957.ts
+#EXTINF:-1 tvg-ID="SkyMoviesComedy.uk" tvg-name="GB: SKY CINEMA COMEDY SD/HD" tvg-logo="" group-title="UK MOVIES",GB: SKY CINEMA COMEDY SD/HD
+http://iptvglobal.uk:8080/live/all/all/212.ts
+#EXTINF:-1 tvg-ID="SkyMoviesFamily.uk" tvg-name="GB: SKY MOVIES FAMILY HD" tvg-logo="" group-title="UK MOVIES",GB: SKY MOVIES FAMILY HD
+http://iptvglobal.uk:8080/live/all/all/1956.ts
+#EXTINF:-1 tvg-ID="SkyMoviesFamily.uk" tvg-name="GB: SKY MOVIES FAMILY SD/HD" tvg-logo="" group-title="UK MOVIES",GB: SKY MOVIES FAMILY SD/HD
+http://iptvglobal.uk:8080/live/all/all/26.ts
+#EXTINF:-1 tvg-ID="Sky Cinema Greats HD" tvg-name="GB: SKY CINEMA MODERN GREATS HD" tvg-logo="" group-title="UK MOVIES",GB: SKY CINEMA MODERN GREATS HD
+http://iptvglobal.uk:8080/live/all/all/27008.ts
+#EXTINF:-1 tvg-ID="Sky Cinema Greats HD" tvg-name="GB: SKY CINEMA MODERN GREATS SD/HD" tvg-logo="" group-title="UK MOVIES",GB: SKY CINEMA MODERN GREATS SD/HD
+http://iptvglobal.uk:8080/live/all/all/234.ts
+#EXTINF:-1 tvg-ID="SkySciFiHorror.uk" tvg-name="GB: SKY CINEMA SCI-FI/HORROR HD" tvg-logo="" group-title="UK MOVIES",GB: SKY CINEMA SCI-FI/HORROR HD
+http://iptvglobal.uk:8080/live/all/all/204.ts
+#EXTINF:-1 tvg-ID="SkySciFiHorror.uk" tvg-name="GB: SKY MOVIES SCI-FI/HORROR SD/HD" tvg-logo="" group-title="UK MOVIES",GB: SKY MOVIES SCI-FI/HORROR SD/HD
+http://iptvglobal.uk:8080/live/all/all/1952.ts
+#EXTINF:-1 tvg-ID="Sky Cinema Disney" tvg-name="GB: SKY MOVIES DISNEY HD" tvg-logo="" group-title="UK MOVIES",GB: SKY MOVIES DISNEY HD
+http://iptvglobal.uk:8080/live/all/all/26999.ts
+#EXTINF:-1 tvg-ID="SkyMoviesDisney.uk" tvg-name="GB: SKY MOVIES DISNEY SD/HD" tvg-logo="" group-title="UK MOVIES",GB: SKY MOVIES DISNEY SD/HD
+http://iptvglobal.uk:8080/live/all/all/2216.ts
+#EXTINF:-1 tvg-ID="Sky Cinema Drama & Romance" tvg-name="GB: SKY MOVIES DRAMA  & ROMANCE HD" tvg-logo="" group-title="UK MOVIES",GB: SKY MOVIES DRAMA  & ROMANCE HD
+http://iptvglobal.uk:8080/live/all/all/27017.ts
+#EXTINF:-1 tvg-ID="SkyMoviesDrama.uk" tvg-name="GB: SKY MOVIES DRAMA HD" tvg-logo="" group-title="UK MOVIES",GB: SKY MOVIES DRAMA HD
+http://iptvglobal.uk:8080/live/all/all/736.ts
+#EXTINF:-1 tvg-ID="SkyCinemaHits.uk" tvg-name="GB: SKY MOVIES HITS HD" tvg-logo="" group-title="UK MOVIES",GB: SKY MOVIES HITS HD
+http://iptvglobal.uk:8080/live/all/all/1954.ts
+#EXTINF:-1 tvg-ID="SkyMoviesIndie.uk" tvg-name="GB: SKY MOVIES  SELECT HD" tvg-logo="" group-title="UK MOVIES",GB: SKY MOVIES  SELECT HD
+http://iptvglobal.uk:8080/live/all/all/1959.ts
+#EXTINF:-1 tvg-ID="SkyMoviesIndie.uk" tvg-name="GB: SKY MOVIES SELECT SD/HD" tvg-logo="" group-title="UK MOVIES",GB: SKY MOVIES SELECT SD/HD
+http://iptvglobal.uk:8080/live/all/all/211.ts
+#EXTINF:-1 tvg-ID="SkyCinemaThriller.uk" tvg-name="GB: SKY MOVIES CRIME & THRILLER HD" tvg-logo="" group-title="UK MOVIES",GB: SKY MOVIES CRIME & THRILLER HD
+http://iptvglobal.uk:8080/live/all/all/1951.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: SKY MOVIES CRIME & THRILLER SD/HD" tvg-logo="" group-title="UK MOVIES",GB: SKY MOVIES CRIME & THRILLER SD/HD
+http://iptvglobal.uk:8080/live/all/all/27022.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: BOX OFFICE 1 SD/HD" tvg-logo="" group-title="UK MOVIES",GB: BOX OFFICE 1 SD/HD
+http://iptvglobal.uk:8080/live/all/all/2157.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: BOX OFFICE 2 SD/HD" tvg-logo="" group-title="UK MOVIES",GB: BOX OFFICE 2 SD/HD
+http://iptvglobal.uk:8080/live/all/all/2156.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: BOX OFFICE 3 SD/HD" tvg-logo="" group-title="UK MOVIES",GB: BOX OFFICE 3 SD/HD
+http://iptvglobal.uk:8080/live/all/all/2155.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: BOX OFFICE SD/HD" tvg-logo="" group-title="UK MOVIES",GB: BOX OFFICE SD/HD
+http://iptvglobal.uk:8080/live/all/all/2158.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: BOX OFFICE 4 SD/HD" tvg-logo="" group-title="UK MOVIES",GB: BOX OFFICE 4 SD/HD
+http://iptvglobal.uk:8080/live/all/all/2154.ts
+#EXTINF:-1 tvg-ID="Movies4Men" tvg-name="GB: MOVIES 4 MEN SD/HD" tvg-logo="" group-title="UK MOVIES",GB: MOVIES 4 MEN SD/HD
+http://iptvglobal.uk:8080/live/all/all/55.ts
+#EXTINF:-1 tvg-ID="Film4.uk" tvg-name="GB: FILM 4 SD/HD" tvg-logo="" group-title="UK MOVIES",GB: FILM 4 SD/HD
+http://iptvglobal.uk:8080/live/all/all/1459.ts
+#EXTINF:-1 tvg-ID="Film4" tvg-name="GB: FILM 4 HD" tvg-logo="" group-title="UK MOVIES",GB: FILM 4 HD
+http://iptvglobal.uk:8080/live/all/all/26886.ts
+#EXTINF:-1 tvg-ID="Horror Channel" tvg-name="GB: HORROR CHANNEL SD/HD" tvg-logo="" group-title="UK MOVIES",GB: HORROR CHANNEL SD/HD
+http://iptvglobal.uk:8080/live/all/all/26917.ts
+#EXTINF:-1 tvg-ID="Sony Movie Channel" tvg-name="GB: SONY MOVIES CHANNEL SD/HD" tvg-logo="" group-title="UK MOVIES",GB: SONY MOVIES CHANNEL SD/HD
+http://iptvglobal.uk:8080/live/all/all/2424.ts
+#EXTINF:-1 tvg-ID="TCM" tvg-name="GB: TCM SD/HD" tvg-logo="" group-title="UK MOVIES",GB: TCM SD/HD
+http://iptvglobal.uk:8080/live/all/all/26985.ts
+#EXTINF:-1 tvg-ID="TCM.uk" tvg-name="GB: TCM HD" tvg-logo="" group-title="UK MOVIES",GB: TCM HD
+http://iptvglobal.uk:8080/live/all/all/2165.ts
+#EXTINF:-1 tvg-ID="True Movies 1" tvg-name="GB: TRUE CRIME HD" tvg-logo="" group-title="UK MOVIES",GB: TRUE CRIME HD
+http://iptvglobal.uk:8080/live/all/all/1455.ts
+#EXTINF:-1 tvg-ID="TrueEntertainment.uk" tvg-name="GB: TRUE ENTERTAINMENT SD/HD" tvg-logo="" group-title="UK MOVIES",GB: TRUE ENTERTAINMENT SD/HD
+http://iptvglobal.uk:8080/live/all/all/770.ts
+#EXTINF:-1 tvg-ID="TrueMovies.uk" tvg-name="GB: TRUE MOVIES 1 HD" tvg-logo="" group-title="UK MOVIES",GB: TRUE MOVIES 1 HD
+http://iptvglobal.uk:8080/live/all/all/769.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: TRUE MOVIES 2 SD/HD" tvg-logo="" group-title="UK MOVIES",GB: TRUE MOVIES 2 SD/HD
+http://iptvglobal.uk:8080/live/all/all/26998.ts
+#EXTINF:-1 tvg-ID="Nollywood Movies" tvg-name="GB: NOLLLYWOOD SD/HD" tvg-logo="" group-title="UK MOVIES",GB: NOLLLYWOOD SD/HD
+http://iptvglobal.uk:8080/live/all/all/26964.ts
+#EXTINF:-1 tvg-ID="BBCOneHD.uk" tvg-name="GB: BBC ONE HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: BBC ONE HD
+http://iptvglobal.uk:8080/live/all/all/763.ts
+#EXTINF:-1 tvg-ID="BBC One HD" tvg-name="GB: BBC ONE  SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: BBC ONE  SD/HD
+http://iptvglobal.uk:8080/live/all/all/4698.ts
+#EXTINF:-1 tvg-ID="BBC2.uk" tvg-name="GB: BBC TWO HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: BBC TWO HD
+http://iptvglobal.uk:8080/live/all/all/764.ts
+#EXTINF:-1 tvg-ID="BBC2.uk" tvg-name="GB: BBC TWO  SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: BBC TWO  SD/HD
+http://iptvglobal.uk:8080/live/all/all/4699.ts
+#EXTINF:-1 tvg-ID="CBBC" tvg-name="GB: BBC THREE  CBBC HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: BBC THREE  CBBC HD
+http://iptvglobal.uk:8080/live/all/all/4700.ts
+#EXTINF:-1 tvg-ID="BBC Four HD" tvg-name="GB: BBC FOUR / CBEEBIES SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: BBC FOUR / CBEEBIES SD/HD
+http://iptvglobal.uk:8080/live/all/all/26831.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: BBC TWO SCOTLAND SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: BBC TWO SCOTLAND SD/HD
+http://iptvglobal.uk:8080/live/all/all/26899.ts
+#EXTINF:-1 tvg-ID="CBBC" tvg-name="GB: BBC THREE CBBC SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: BBC THREE CBBC SD/HD
+http://iptvglobal.uk:8080/live/all/all/767.ts
+#EXTINF:-1 tvg-ID="BBC World News" tvg-name="GB: BBC WORLD SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: BBC WORLD SD/HD
+http://iptvglobal.uk:8080/live/all/all/4777.ts
+#EXTINF:-1 tvg-ID="ITV1London.uk" tvg-name="GB: ITV 1 HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: ITV 1 HD
+http://iptvglobal.uk:8080/live/all/all/15733.ts
+#EXTINF:-1 tvg-ID="ITV1London.uk" tvg-name="GB: ITV 1 SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: ITV 1 SD/HD
+http://iptvglobal.uk:8080/live/all/all/762.ts
+#EXTINF:-1 tvg-ID="ITV2.uk" tvg-name="GB: ITV 2 HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: ITV 2 HD
+http://iptvglobal.uk:8080/live/all/all/760.ts
+#EXTINF:-1 tvg-ID="ITV3.uk" tvg-name="GB: ITV 3 HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: ITV 3 HD
+http://iptvglobal.uk:8080/live/all/all/759.ts
+#EXTINF:-1 tvg-ID="ITV4.uk" tvg-name="GB: ITV 4 HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: ITV 4 HD
+http://iptvglobal.uk:8080/live/all/all/758.ts
+#EXTINF:-1 tvg-ID="ITVEncore.uk" tvg-name="GB: ITV ENCORE HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: ITV ENCORE HD
+http://iptvglobal.uk:8080/live/all/all/2153.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: ITV BE HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: ITV BE HD
+http://iptvglobal.uk:8080/live/all/all/26918.ts
+#EXTINF:-1 tvg-ID="ITVBe.uk" tvg-name="GB: ITV BE SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: ITV BE SD/HD
+http://iptvglobal.uk:8080/live/all/all/1468.ts
+#EXTINF:-1 tvg-ID="Sky1.uk" tvg-name="GB: SKY ONE HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: SKY ONE HD
+http://iptvglobal.uk:8080/live/all/all/561.ts
+#EXTINF:-1 tvg-ID="SCIFI.uk" tvg-name="GB: SKY ONE SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: SKY ONE SD/HD
+http://iptvglobal.uk:8080/live/all/all/2166.ts
+#EXTINF:-1 tvg-ID="Sky 2" tvg-name="GB: SKY TWO HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: SKY TWO HD
+http://iptvglobal.uk:8080/live/all/all/766.ts
+#EXTINF:-1 tvg-ID="Sky Atlantic" tvg-name="GB: SKY ATLANTIC SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: SKY ATLANTIC SD/HD
+http://iptvglobal.uk:8080/live/all/all/17.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: SKY ARTS HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: SKY ARTS HD
+http://iptvglobal.uk:8080/live/all/all/26995.ts
+#EXTINF:-1 tvg-ID="SkyMoviesFamily.uk" tvg-name="GB: SKY FAMILY HD" tvg-logo="" group-title="UK MOVIES",GB: SKY FAMILY HD
+http://iptvglobal.uk:8080/live/all/all/27004.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: SKY FAMILY SD/HD" tvg-logo="" group-title="UK MOVIES",GB: SKY FAMILY SD/HD
+http://iptvglobal.uk:8080/live/all/all/27003.ts
+#EXTINF:-1 tvg-ID="Sky Arts" tvg-name="GB: SKY ARTS SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: SKY ARTS SD/HD
+http://iptvglobal.uk:8080/live/all/all/1625.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: SKY LIVING HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: SKY LIVING HD
+http://iptvglobal.uk:8080/live/all/all/27013.ts
+#EXTINF:-1 tvg-ID="SkyLiving.uk" tvg-name="GB: SKY LIVING SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: SKY LIVING SD/HD
+http://iptvglobal.uk:8080/live/all/all/637.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: ITV ENCORE SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: ITV ENCORE SD/HD
+http://iptvglobal.uk:8080/live/all/all/28417.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: ITV 2 SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: ITV 2 SD/HD
+http://iptvglobal.uk:8080/live/all/all/28420.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: ITV 3 SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: ITV 3 SD/HD
+http://iptvglobal.uk:8080/live/all/all/28419.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: ITV 4 SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: ITV 4 SD/HD
+http://iptvglobal.uk:8080/live/all/all/28418.ts
+#EXTINF:-1 tvg-ID="FOX HD" tvg-name="GB: FOX HD" tvg-logo="" group-title="UK REALITY",GB: FOX HD
+http://iptvglobal.uk:8080/live/all/all/26903.ts
+#EXTINF:-1 tvg-ID="FOX HD" tvg-name="GB: FOX SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: FOX SD/HD
+http://iptvglobal.uk:8080/live/all/all/993.ts
+#EXTINF:-1 tvg-ID="4seven" tvg-name="GB: 4 SEVEN HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: 4 SEVEN HD
+http://iptvglobal.uk:8080/live/all/all/15802.ts
+#EXTINF:-1 tvg-ID="4seven" tvg-name="GB: 4 SEVEN SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: 4 SEVEN SD/HD
+http://iptvglobal.uk:8080/live/all/all/26881.ts
+#EXTINF:-1 tvg-ID="Channel4.uk" tvg-name="GB: CHANNEL 4 HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: CHANNEL 4 HD
+http://iptvglobal.uk:8080/live/all/all/4702.ts
+#EXTINF:-1 tvg-ID="Channel 4 HD" tvg-name="GB: CHANNEL 4 SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: CHANNEL 4 SD/HD
+http://iptvglobal.uk:8080/live/all/all/26939.ts
+#EXTINF:-1 tvg-ID="Channel5.uk" tvg-name="GB: CHANNEL 5 HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: CHANNEL 5 HD
+http://iptvglobal.uk:8080/live/all/all/2669.ts
+#EXTINF:-1 tvg-ID="Channel5.uk" tvg-name="GB: CHANNEL 5 SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: CHANNEL 5 SD/HD
+http://iptvglobal.uk:8080/live/all/all/988.ts
+#EXTINF:-1 tvg-ID="3e" tvg-name="GB: 3E HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: 3E HD
+http://iptvglobal.uk:8080/live/all/all/26876.ts
+#EXTINF:-1 tvg-ID="3e.ie" tvg-name="GB: 3E SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: 3E SD/HD
+http://iptvglobal.uk:8080/live/all/all/1463.ts
+#EXTINF:-1 tvg-ID="5star.uk" tvg-name="GB: 5 STAR SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: 5 STAR SD/HD
+http://iptvglobal.uk:8080/live/all/all/2671.ts
+#EXTINF:-1 tvg-ID="5USA" tvg-name="GB: 5 USA SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: 5 USA SD/HD
+http://iptvglobal.uk:8080/live/all/all/995.ts
+#EXTINF:-1 tvg-ID="Alibi" tvg-name="GB: ALIBI SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: ALIBI SD/HD
+http://iptvglobal.uk:8080/live/all/all/1476.ts
+#EXTINF:-1 tvg-ID="BET" tvg-name="GB: BET SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: BET SD/HD
+http://iptvglobal.uk:8080/live/all/all/989.ts
+#EXTINF:-1 tvg-ID="CBSAction.uk" tvg-name="GB: CBS ACTION SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: CBS ACTION SD/HD
+http://iptvglobal.uk:8080/live/all/all/220.ts
+#EXTINF:-1 tvg-ID="CBS Drama" tvg-name="GB: CBS DRAMA SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: CBS DRAMA SD/HD
+http://iptvglobal.uk:8080/live/all/all/1047.ts
+#EXTINF:-1 tvg-ID="CBSReality.uk" tvg-name="GB: CBS REALITY SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: CBS REALITY SD/HD
+http://iptvglobal.uk:8080/live/all/all/991.ts
+#EXTINF:-1 tvg-ID="ComedyCentral.uk" tvg-name="GB: COMEDY CENTRAL SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: COMEDY CENTRAL SD/HD
+http://iptvglobal.uk:8080/live/all/all/1622.ts
+#EXTINF:-1 tvg-ID="ComedyCentral.uk" tvg-name="GB: COMEDY CENTRAL EXTRA SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: COMEDY CENTRAL EXTRA SD/HD
+http://iptvglobal.uk:8080/live/all/all/1623.ts
+#EXTINF:-1 tvg-ID="Comedy Central" tvg-name="GB: COMEDY CENTRAL HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: COMEDY CENTRAL HD
+http://iptvglobal.uk:8080/live/all/all/26950.ts
+#EXTINF:-1 tvg-ID="DMAX" tvg-name="GB: DMAX SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: DMAX SD/HD
+http://iptvglobal.uk:8080/live/all/all/4780.ts
+#EXTINF:-1 tvg-ID="Drama" tvg-name="GB: DRAMA SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: DRAMA SD/HD
+http://iptvglobal.uk:8080/live/all/all/26972.ts
+#EXTINF:-1 tvg-ID="E.uk" tvg-name="GB: E! ENTERTAINMENT SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: E! ENTERTAINMENT SD/HD
+http://iptvglobal.uk:8080/live/all/all/1454.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: E4 +1" tvg-logo="" group-title="UK ENTERTAINMENT",GB: E4 +1
+http://iptvglobal.uk:8080/live/all/all/30031.ts
+#EXTINF:-1 tvg-ID="E4.uk" tvg-name="GB: E4 SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: E4 SD/HD
+http://iptvglobal.uk:8080/live/all/all/840.ts
+#EXTINF:-1 tvg-ID="Eden" tvg-name="GB: EDEN SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: EDEN SD/HD
+http://iptvglobal.uk:8080/live/all/all/69.ts
+#EXTINF:-1 tvg-ID="GOLD" tvg-name="GB: GOLD TV SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: GOLD TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/48.ts
+#EXTINF:-1 tvg-ID="GoodFood.uk" tvg-name="GB: GOOD FOOD SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: GOOD FOOD SD/HD
+http://iptvglobal.uk:8080/live/all/all/1460.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: LifeTime" tvg-logo="" group-title="UK REALITY",GB: LifeTime
+http://iptvglobal.uk:8080/live/all/all/26925.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: MORE 4 SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: MORE 4 SD/HD
+http://iptvglobal.uk:8080/live/all/all/26927.ts
+#EXTINF:-1 tvg-ID="More4.uk" tvg-name="GB: MORE 4 HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: MORE 4 HD
+http://iptvglobal.uk:8080/live/all/all/13315.ts
+#EXTINF:-1 tvg-ID="Pick" tvg-name="GB: PICK TV SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: PICK TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/70.ts
+#EXTINF:-1 tvg-ID="Quest.uk" tvg-name="GB: QUEST" tvg-logo="" group-title="UK ENTERTAINMENT",GB: QUEST
+http://iptvglobal.uk:8080/live/all/all/990.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: QUEST RED SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: QUEST RED SD/HD
+http://iptvglobal.uk:8080/live/all/all/26975.ts
+#EXTINF:-1 tvg-ID="RealLives.uk" tvg-name="GB: REAL LIVES SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: REAL LIVES SD/HD
+http://iptvglobal.uk:8080/live/all/all/1450.ts
+#EXTINF:-1 tvg-ID="Really.uk" tvg-name="GB: REALLY SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: REALLY SD/HD
+http://iptvglobal.uk:8080/live/all/all/1472.ts
+#EXTINF:-1 tvg-ID="Rok" tvg-name="GB: ROK TV SD/HD" tvg-logo="" group-title="UK MOVIES",GB: ROK TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/2754.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: S4C Cyw SD/HD" tvg-logo="" group-title="UK KIDS",GB: S4C Cyw SD/HD
+http://iptvglobal.uk:8080/live/all/all/26983.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: SHOWCASE SD/HD" tvg-logo="" group-title="UK REALITY",GB: SHOWCASE SD/HD
+http://iptvglobal.uk:8080/live/all/all/26988.ts
+#EXTINF:-1 tvg-ID="SCIFI.uk" tvg-name="GB: SYFY SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: SYFY SD/HD
+http://iptvglobal.uk:8080/live/all/all/768.ts
+#EXTINF:-1 tvg-ID="The Box" tvg-name="GB: THE BOX SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: THE BOX SD/HD
+http://iptvglobal.uk:8080/live/all/all/26992.ts
+#EXTINF:-1 tvg-ID="TV3.ie" tvg-name="GB: TV 3 SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: TV 3 SD/HD
+http://iptvglobal.uk:8080/live/all/all/3436.ts
+#EXTINF:-1 tvg-ID="TV3 HD" tvg-name="GB: TV 3 HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: TV 3 HD
+http://iptvglobal.uk:8080/live/all/all/26989.ts
+#EXTINF:-1 tvg-ID="TG4.ie" tvg-name="GB: TG 4 SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: TG 4 SD/HD
+http://iptvglobal.uk:8080/live/all/all/992.ts
+#EXTINF:-1 tvg-ID="TG4" tvg-name="GB: TG 4 HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: TG 4 HD
+http://iptvglobal.uk:8080/live/all/all/26987.ts
+#EXTINF:-1 tvg-ID="RTE2.ie" tvg-name="GB: RTE 2 SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: RTE 2 SD/HD
+http://iptvglobal.uk:8080/live/all/all/842.ts
+#EXTINF:-1 tvg-ID="RTÉ Jr" tvg-name="GB: RTE JUNIOR SD/HD" tvg-logo="" group-title="UK KIDS",GB: RTE JUNIOR SD/HD
+http://iptvglobal.uk:8080/live/all/all/26977.ts
+#EXTINF:-1 tvg-ID="UTV.uk" tvg-name="GB: UTV IRELAND SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: UTV IRELAND SD/HD
+http://iptvglobal.uk:8080/live/all/all/2672.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: RTE ONE SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: RTE ONE SD/HD
+http://iptvglobal.uk:8080/live/all/all/26979.ts
+#EXTINF:-1 tvg-ID="Universal Channel" tvg-name="GB: UNIVERSAL SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: UNIVERSAL SD/HD
+http://iptvglobal.uk:8080/live/all/all/837.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: WATCH SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: WATCH SD/HD
+http://iptvglobal.uk:8080/live/all/all/1474.ts
+#EXTINF:-1 tvg-ID="Yesterday" tvg-name="GB: YESTERDAY SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: YESTERDAY SD/HD
+http://iptvglobal.uk:8080/live/all/all/2422.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: DAVE SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: DAVE SD/HD
+http://iptvglobal.uk:8080/live/all/all/26491.ts
+#EXTINF:-1 tvg-ID="HUM-EUROPE.uk" tvg-name="GB: HUM TV EUROPE SD/HD" tvg-logo="" group-title="UK ASIAN",GB: HUM TV EUROPE SD/HD
+http://iptvglobal.uk:8080/live/all/all/13537.ts
+#EXTINF:-1 tvg-ID="HUM Masala" tvg-name="GB: HUM MASALA SD/HD" tvg-logo="" group-title="UK ASIAN",GB: HUM MASALA SD/HD
+http://iptvglobal.uk:8080/live/all/all/4792.ts
+#EXTINF:-1 tvg-ID="Colors" tvg-name="GB: COLORS TV HD" tvg-logo="" group-title="UK ASIAN",GB: COLORS TV HD
+http://iptvglobal.uk:8080/live/all/all/26949.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN:  Rishtey Europe" tvg-logo="" group-title="UK ASIAN",VIP IN:  Rishtey Europe
+http://iptvglobal.uk:8080/live/all/all/23748.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN:  Star Bharat-UK" tvg-logo="" group-title="UK ASIAN",VIP IN:  Star Bharat-UK
+http://iptvglobal.uk:8080/live/all/all/23755.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN:  Zee Cinema SD uk" tvg-logo="" group-title="UK ASIAN",VIP IN:  Zee Cinema SD uk
+http://iptvglobal.uk:8080/live/all/all/23734.ts
+#EXTINF:-1 tvg-ID="Star Plus" tvg-name="GB: STAR PLUS SD/HD" tvg-logo="" group-title="UK ASIAN",GB: STAR PLUS SD/HD
+http://iptvglobal.uk:8080/live/all/all/99.ts
+#EXTINF:-1 tvg-ID="Sony Entertainment TV Asia" tvg-name="GB: SONY TV SD/HD" tvg-logo="" group-title="UK ASIAN",GB: SONY TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/85.ts
+#EXTINF:-1 tvg-ID="Zee TV" tvg-name="GB: ZEE TV SD/HD" tvg-logo="" group-title="UK ASIAN",GB: ZEE TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/81.ts
+#EXTINF:-1 tvg-ID="Rishtey" tvg-name="GB: RISHTEY TV SD/HD" tvg-logo="" group-title="UK ASIAN",GB: RISHTEY TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/4905.ts
+#EXTINF:-1 tvg-ID="Sony SAB" tvg-name="GB: SONY SAB SD/HD" tvg-logo="" group-title="UK ASIAN",GB: SONY SAB SD/HD
+http://iptvglobal.uk:8080/live/all/all/4785.ts
+#EXTINF:-1 tvg-ID="Urdu1Europe.uk" tvg-name="GB: URDU 1 SD/HD" tvg-logo="" group-title="UK ASIAN",GB: URDU 1 SD/HD
+http://iptvglobal.uk:8080/live/all/all/2233.ts
+#EXTINF:-1 tvg-ID="Star Bharat" tvg-name="GB: STAR BHARAT SD/HD" tvg-logo="" group-title="UK ASIAN",GB: STAR BHARAT SD/HD
+http://iptvglobal.uk:8080/live/all/all/106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: PTV PRIME SD/HD" tvg-logo="" group-title="UK ASIAN",GB: PTV PRIME SD/HD
+http://iptvglobal.uk:8080/live/all/all/26973.ts
+#EXTINF:-1 tvg-ID="PTV Prime" tvg-name="GB: PRIME TV UK" tvg-logo="" group-title="UK ASIAN",GB: PRIME TV UK
+http://iptvglobal.uk:8080/live/all/all/2232.ts
+#EXTINF:-1 tvg-ID="Star Gold" tvg-name="GB: STAR GOLD SD/HD" tvg-logo="" group-title="UK ASIAN",GB: STAR GOLD SD/HD
+http://iptvglobal.uk:8080/live/all/all/100.ts
+#EXTINF:-1 tvg-ID="Zee Cinema" tvg-name="GB: ZEE CINEMA SD/HD" tvg-logo="" group-title="UK ASIAN",GB: ZEE CINEMA SD/HD
+http://iptvglobal.uk:8080/live/all/all/82.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: B4U MOVIES SD/HD" tvg-logo="" group-title="UK ASIAN",GB: B4U MOVIES SD/HD
+http://iptvglobal.uk:8080/live/all/all/28322.ts
+#EXTINF:-1 tvg-ID="RishteyCineplex.uk" tvg-name="GB: RISHTEY CINEPLEX" tvg-logo="" group-title="UK ASIAN",GB: RISHTEY CINEPLEX
+http://iptvglobal.uk:8080/live/all/all/15725.ts
+#EXTINF:-1 tvg-ID="Sony MAX" tvg-name="GB: SONY MAX HD" tvg-logo="" group-title="UK ASIAN",GB: SONY MAX HD
+http://iptvglobal.uk:8080/live/all/all/86.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: B4U MUSIC SD/HD" tvg-logo="" group-title="UK ASIAN",GB: B4U MUSIC SD/HD
+http://iptvglobal.uk:8080/live/all/all/108.ts
+#EXTINF:-1 tvg-ID="Zing" tvg-name="GB: ZING TV SD/HD" tvg-logo="" group-title="UK ASIAN",GB: ZING TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/80.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: MTV BEATS SD/HD" tvg-logo="" group-title="UK ASIAN",GB: MTV BEATS SD/HD
+http://iptvglobal.uk:8080/live/all/all/17912.ts
+#EXTINF:-1 tvg-ID="BritAsiaTV.uk" tvg-name="GB: BRIT ASIA HD" tvg-logo="" group-title="UK MUSIC",GB: BRIT ASIA HD
+http://iptvglobal.uk:8080/live/all/all/26908.ts
+#EXTINF:-1 tvg-ID="GEOTV.uk" tvg-name="GB: GEO TV" tvg-logo="" group-title="UK ASIAN",GB: GEO TV
+http://iptvglobal.uk:8080/live/all/all/17077.ts
+#EXTINF:-1 tvg-ID="GEONews.uk" tvg-name="GB: GEO NEWS International" tvg-logo="" group-title="UK ASIAN",GB: GEO NEWS International
+http://iptvglobal.uk:8080/live/all/all/17076.ts
+#EXTINF:-1 tvg-ID="AAJTAK.uk" tvg-name="GB: AAJ TAK SD/HD" tvg-logo="" group-title="UK ASIAN",GB: AAJ TAK SD/HD
+http://iptvglobal.uk:8080/live/all/all/13314.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: ABP NEWS  SD/HD" tvg-logo="" group-title="UK ASIAN",GB: ABP NEWS  SD/HD
+http://iptvglobal.uk:8080/live/all/all/13311.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: DUNYA NEWS SD/HD" tvg-logo="" group-title="UK ASIAN",GB: DUNYA NEWS SD/HD
+http://iptvglobal.uk:8080/live/all/all/26974.ts
+#EXTINF:-1 tvg-ID="Zee Punjabi" tvg-name="GB: ZEE PUNJABI SD/HD" tvg-logo="" group-title="UK ASIAN",GB: ZEE PUNJABI SD/HD
+http://iptvglobal.uk:8080/live/all/all/13170.ts
+#EXTINF:-1 tvg-ID="JUSPunjabi.uk" tvg-name="GB: JUS PUNJABI SD/HD" tvg-logo="" group-title="UK ASIAN",GB: JUS PUNJABI SD/HD
+http://iptvglobal.uk:8080/live/all/all/13316.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: CHANNEL AKAAL SD/HD" tvg-logo="" group-title="UK ASIAN",GB: CHANNEL AKAAL SD/HD
+http://iptvglobal.uk:8080/live/all/all/2904.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: SIKH TV SD/HD" tvg-logo="" group-title="UK ASIAN",GB: SIKH TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/26990.ts
+#EXTINF:-1 tvg-ID="Animal Planet HD" tvg-name="GB: ANIMAL PLANET HD" tvg-logo="" group-title="UK REALITY",GB: ANIMAL PLANET HD
+http://iptvglobal.uk:8080/live/all/all/26932.ts
+#EXTINF:-1 tvg-ID="Animal Planet" tvg-name="GB: ANIMAL PLANET SD/HD" tvg-logo="" group-title="UK REALITY",GB: ANIMAL PLANET SD/HD
+http://iptvglobal.uk:8080/live/all/all/26894.ts
+#EXTINF:-1 tvg-ID="CI" tvg-name="GB: CRIME & INVESTIGATION HD" tvg-logo="" group-title="UK REALITY",GB: CRIME & INVESTIGATION HD
+http://iptvglobal.uk:8080/live/all/all/26956.ts
+#EXTINF:-1 tvg-ID="CrimeAndInvestigationNetwork.uk" tvg-name="GB: CRIME & INVESTIGATION SD/HD" tvg-logo="" group-title="UK REALITY",GB: CRIME & INVESTIGATION SD/HD
+http://iptvglobal.uk:8080/live/all/all/73.ts
+#EXTINF:-1 tvg-ID="Discovery Channel +1" tvg-name="GB: DISCOVERY + 1" tvg-logo="" group-title="UK REALITY",GB: DISCOVERY + 1
+http://iptvglobal.uk:8080/live/all/all/30026.ts
+#EXTINF:-1 tvg-ID="Discovery.uk" tvg-name="GB: DISCOVERY HD" tvg-logo="" group-title="UK REALITY",GB: DISCOVERY HD
+http://iptvglobal.uk:8080/live/all/all/164.ts
+#EXTINF:-1 tvg-ID="Discovery Channel HD" tvg-name="GB: DISCOVERY SD/HD" tvg-logo="" group-title="UK REALITY",GB: DISCOVERY SD/HD
+http://iptvglobal.uk:8080/live/all/all/26960.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: DISCOVERY  HISTORY + 1" tvg-logo="" group-title="UK REALITY",GB: DISCOVERY  HISTORY + 1
+http://iptvglobal.uk:8080/live/all/all/30027.ts
+#EXTINF:-1 tvg-ID="DiscoveryHistory.uk" tvg-name="GB: DISCOVERY HISTORY SD/HD" tvg-logo="" group-title="UK REALITY",GB: DISCOVERY HISTORY SD/HD
+http://iptvglobal.uk:8080/live/all/all/39.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: DISCOVERY SCIENCE + 1" tvg-logo="" group-title="UK REALITY",GB: DISCOVERY SCIENCE + 1
+http://iptvglobal.uk:8080/live/all/all/30028.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: DISCOVERY SCIENCE HD" tvg-logo="" group-title="UK REALITY",GB: DISCOVERY SCIENCE HD
+http://iptvglobal.uk:8080/live/all/all/28358.ts
+#EXTINF:-1 tvg-ID="DiscoveryScience.uk" tvg-name="GB: DISCOVERY SCIENCE SD/HD" tvg-logo="" group-title="UK REALITY",GB: DISCOVERY SCIENCE SD/HD
+http://iptvglobal.uk:8080/live/all/all/4775.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: DISCOVERY SHED HD" tvg-logo="" group-title="UK REALITY",GB: DISCOVERY SHED HD
+http://iptvglobal.uk:8080/live/all/all/28357.ts
+#EXTINF:-1 tvg-ID="Discovery Shed" tvg-name="GB: DISCOVERY SHED SD/HD" tvg-logo="" group-title="UK REALITY",GB: DISCOVERY SHED SD/HD
+http://iptvglobal.uk:8080/live/all/all/4776.ts
+#EXTINF:-1 tvg-ID="DiscoveryTurbo.uk" tvg-name="GB: DISCOVERY TURBO SD/HD" tvg-logo="" group-title="UK REALITY",GB: DISCOVERY TURBO SD/HD
+http://iptvglobal.uk:8080/live/all/all/75.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: Discovery Turbo HD" tvg-logo="" group-title="UK REALITY",GB: Discovery Turbo HD
+http://iptvglobal.uk:8080/live/all/all/28354.ts
+#EXTINF:-1 tvg-ID="FoodNetwork.uk" tvg-name="GB: FOOD NETWORK SD/HD" tvg-logo="" group-title="UK REALITY",GB: FOOD NETWORK SD/HD
+http://iptvglobal.uk:8080/live/all/all/7671.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: GOOD FOOD HD" tvg-logo="" group-title="UK REALITY",GB: GOOD FOOD HD
+http://iptvglobal.uk:8080/live/all/all/26909.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: H2 HD" tvg-logo="" group-title="UK REALITY",GB: H2 HD
+http://iptvglobal.uk:8080/live/all/all/26914.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: H2 SD/HD" tvg-logo="" group-title="UK REALITY",GB: H2 SD/HD
+http://iptvglobal.uk:8080/live/all/all/28352.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: HISTORY +1" tvg-logo="" group-title="UK REALITY",GB: HISTORY +1
+http://iptvglobal.uk:8080/live/all/all/30032.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: HISTORY HD" tvg-logo="" group-title="UK REALITY",GB: HISTORY HD
+http://iptvglobal.uk:8080/live/all/all/26913.ts
+#EXTINF:-1 tvg-ID="History.uk" tvg-name="GB: HISTORY SD/HD" tvg-logo="" group-title="UK REALITY",GB: HISTORY SD/HD
+http://iptvglobal.uk:8080/live/all/all/51.ts
+#EXTINF:-1 tvg-ID="Home" tvg-name="GB: HOME SD/HD" tvg-logo="" group-title="UK REALITY",GB: HOME SD/HD
+http://iptvglobal.uk:8080/live/all/all/26916.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: HOME & HEALTH HD" tvg-logo="" group-title="UK REALITY",GB: HOME & HEALTH HD
+http://iptvglobal.uk:8080/live/all/all/28353.ts
+#EXTINF:-1 tvg-ID="Discovery Home & Health" tvg-name="GB: HOME & HEALTH SD/HD" tvg-logo="" group-title="UK REALITY",GB: HOME & HEALTH SD/HD
+http://iptvglobal.uk:8080/live/all/all/26966.ts
+#EXTINF:-1 tvg-ID="Investigation Discovery +1" tvg-name="GB: INVESTIGATION  DISCOVERY +1" tvg-logo="" group-title="UK REALITY",GB: INVESTIGATION  DISCOVERY +1
+http://iptvglobal.uk:8080/live/all/all/30033.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: INVESTIGATION DISCOVERY HD" tvg-logo="" group-title="UK REALITY",GB: INVESTIGATION DISCOVERY HD
+http://iptvglobal.uk:8080/live/all/all/28348.ts
+#EXTINF:-1 tvg-ID="Investigation.uk" tvg-name="GB: INVESTIGATION DISCOVERY SD/HD" tvg-logo="" group-title="UK REALITY",GB: INVESTIGATION DISCOVERY SD/HD
+http://iptvglobal.uk:8080/live/all/all/77.ts
+#EXTINF:-1 tvg-ID="MotorsTV.uk" tvg-name="GB: MOTORS TV SD/HD" tvg-logo="" group-title="UK SPORTS",GB: MOTORS TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/836.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: NAT GEO WILD HD" tvg-logo="" group-title="UK REALITY",GB: NAT GEO WILD HD
+http://iptvglobal.uk:8080/live/all/all/26951.ts
+#EXTINF:-1 tvg-ID="NatGeoWild.uk" tvg-name="GB: NAT GEO WILD SD/HD" tvg-logo="" group-title="UK REALITY",GB: NAT GEO WILD SD/HD
+http://iptvglobal.uk:8080/live/all/all/56.ts
+#EXTINF:-1 tvg-ID="NationalGeographic.uk" tvg-name="GB: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="UK REALITY",GB: NATIONAL GEOGRAPHIC HD
+http://iptvglobal.uk:8080/live/all/all/57.ts
+#EXTINF:-1 tvg-ID="NationalGeographic.uk" tvg-name="GB: NATIONAL GEOGRAPHIC SD/HD" tvg-logo="" group-title="UK REALITY",GB: NATIONAL GEOGRAPHIC SD/HD
+http://iptvglobal.uk:8080/live/all/all/162.ts
+#EXTINF:-1 tvg-ID="BabyTV" tvg-name="GB: BABY TV SD/HD" tvg-logo="" group-title="UK KIDS",GB: BABY TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/1464.ts
+#EXTINF:-1 tvg-ID="CBeebies" tvg-name="GB: BBC HD  FOUR / CBEEBIES HD" tvg-logo="" group-title="UK KIDS",GB: BBC HD  FOUR / CBEEBIES HD
+http://iptvglobal.uk:8080/live/all/all/219.ts
+#EXTINF:-1 tvg-ID="Boomerang.uk" tvg-name="GB: BOOMERANG SD/HD" tvg-logo="" group-title="UK KIDS",GB: BOOMERANG SD/HD
+http://iptvglobal.uk:8080/live/all/all/2464.ts
+#EXTINF:-1 tvg-ID="Boomerang +1" tvg-name="GB: BOOMERRANG + 1" tvg-logo="" group-title="UK KIDS",GB: BOOMERRANG + 1
+http://iptvglobal.uk:8080/live/all/all/30025.ts
+#EXTINF:-1 tvg-ID="Cartoon Network +1" tvg-name="GB: CARTOON NETWORK +1" tvg-logo="" group-title="UK KIDS",GB: CARTOON NETWORK +1
+http://iptvglobal.uk:8080/live/all/all/2462.ts
+#EXTINF:-1 tvg-ID="Cartoon Network" tvg-name="GB: CARTOON NETWORK HD" tvg-logo="" group-title="UK KIDS",GB: CARTOON NETWORK HD
+http://iptvglobal.uk:8080/live/all/all/217.ts
+#EXTINF:-1 tvg-ID="Cartoonito.uk" tvg-name="GB: CARTOONITO HD" tvg-logo="" group-title="UK KIDS",GB: CARTOONITO HD
+http://iptvglobal.uk:8080/live/all/all/2151.ts
+#EXTINF:-1 tvg-ID="Cartoonito" tvg-name="GB: CARTOONITO SD/HD" tvg-logo="" group-title="UK KIDS",GB: CARTOONITO SD/HD
+http://iptvglobal.uk:8080/live/all/all/28364.ts
+#EXTINF:-1 tvg-ID="CITV.uk" tvg-name="GB: CITV SD/HD" tvg-logo="" group-title="UK KIDS",GB: CITV SD/HD
+http://iptvglobal.uk:8080/live/all/all/14908.ts
+#EXTINF:-1 tvg-ID="Disney.uk" tvg-name="GB: DISNEY CHANNEL HD" tvg-logo="" group-title="UK KIDS",GB: DISNEY CHANNEL HD
+http://iptvglobal.uk:8080/live/all/all/26970.ts
+#EXTINF:-1 tvg-ID="Disney.uk" tvg-name="GB: DISNEY CHANNEL SD/HD" tvg-logo="" group-title="UK KIDS",GB: DISNEY CHANNEL SD/HD
+http://iptvglobal.uk:8080/live/all/all/751.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: DISNEY CHANNEL + 1" tvg-logo="" group-title="UK KIDS",GB: DISNEY CHANNEL + 1
+http://iptvglobal.uk:8080/live/all/all/30029.ts
+#EXTINF:-1 tvg-ID="DisneyJunior.uk" tvg-name="GB: DISNEY JUNIOR" tvg-logo="" group-title="UK KIDS",GB: DISNEY JUNIOR
+http://iptvglobal.uk:8080/live/all/all/41.ts
+#EXTINF:-1 tvg-ID="DisneyJunior.uk" tvg-name="GB: DISNEY JUNIOR HD" tvg-logo="" group-title="UK KIDS",GB: DISNEY JUNIOR HD
+http://iptvglobal.uk:8080/live/all/all/2228.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: Disney JUNIOR SD/HD" tvg-logo="" group-title="UK KIDS",GB: Disney JUNIOR SD/HD
+http://iptvglobal.uk:8080/live/all/all/28373.ts
+#EXTINF:-1 tvg-ID="DisneyXD.uk" tvg-name="GB: DISNEY XD HD" tvg-logo="" group-title="UK KIDS",GB: DISNEY XD HD
+http://iptvglobal.uk:8080/live/all/all/2226.ts
+#EXTINF:-1 tvg-ID="DisneyXD.uk" tvg-name="GB: DISNEY XD SD/HD" tvg-logo="" group-title="UK KIDS",GB: DISNEY XD SD/HD
+http://iptvglobal.uk:8080/live/all/all/2148.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: DISNEY XD +1" tvg-logo="" group-title="UK KIDS",GB: DISNEY XD +1
+http://iptvglobal.uk:8080/live/all/all/30030.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: NICK JR SD/HD" tvg-logo="" group-title="UK KIDS",GB: NICK JR SD/HD
+http://iptvglobal.uk:8080/live/all/all/26957.ts
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="GB: NICKELODEON HD" tvg-logo="" group-title="UK KIDS",GB: NICKELODEON HD
+http://iptvglobal.uk:8080/live/all/all/26962.ts
+#EXTINF:-1 tvg-ID="NickJunior.uk" tvg-name="GB: NICK JR TOO SD/HD" tvg-logo="" group-title="UK KIDS",GB: NICK JR TOO SD/HD
+http://iptvglobal.uk:8080/live/all/all/2221.ts
+#EXTINF:-1 tvg-ID="Nickelodeon.uk" tvg-name="GB: NICKELODEON SD/HD" tvg-logo="" group-title="UK KIDS",GB: NICKELODEON SD/HD
+http://iptvglobal.uk:8080/live/all/all/2466.ts
+#EXTINF:-1 tvg-ID="Nicktoons.uk" tvg-name="GB: NICKTOONS SD/HD" tvg-logo="" group-title="UK KIDS",GB: NICKTOONS SD/HD
+http://iptvglobal.uk:8080/live/all/all/994.ts
+#EXTINF:-1 tvg-ID="4Music" tvg-name="GB: 4 MUSIC SD/HD" tvg-logo="" group-title="UK MUSIC",GB: 4 MUSIC SD/HD
+http://iptvglobal.uk:8080/live/all/all/2912.ts
+#EXTINF:-1 tvg-ID="CapitalTV.uk" tvg-name="GB: CAPITAL TV MUSIC SD/HD" tvg-logo="" group-title="UK MUSIC",GB: CAPITAL TV MUSIC SD/HD
+http://iptvglobal.uk:8080/live/all/all/13310.ts
+#EXTINF:-1 tvg-ID="ChartShowTV.uk" tvg-name="GB: CHART SHOW TV SD/HD" tvg-logo="" group-title="UK MUSIC",GB: CHART SHOW TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/2911.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: HEARTS TV SD/HD" tvg-logo="" group-title="UK MUSIC",GB: HEARTS TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/26911.ts
+#EXTINF:-1 tvg-ID="MTVBase.uk" tvg-name="GB: MTV Base SD/HD" tvg-logo="" group-title="UK MUSIC",GB: MTV Base SD/HD
+http://iptvglobal.uk:8080/live/all/all/1469.ts
+#EXTINF:-1 tvg-ID="MTVClassic.uk" tvg-name="GB: MTV Classic SD/HD" tvg-logo="" group-title="UK MUSIC",GB: MTV Classic SD/HD
+http://iptvglobal.uk:8080/live/all/all/3142.ts
+#EXTINF:-1 tvg-ID="MTV Dance" tvg-name="GB: MTV Dance SD/HD" tvg-logo="" group-title="UK MUSIC",GB: MTV Dance SD/HD
+http://iptvglobal.uk:8080/live/all/all/1470.ts
+#EXTINF:-1 tvg-ID="MTV.uk" tvg-name="GB: MTV SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: MTV SD/HD
+http://iptvglobal.uk:8080/live/all/all/3141.ts
+#EXTINF:-1 tvg-ID="MTVHits.uk" tvg-name="GB: MTV HITS SD/HD" tvg-logo="" group-title="UK MUSIC",GB: MTV HITS SD/HD
+http://iptvglobal.uk:8080/live/all/all/3143.ts
+#EXTINF:-1 tvg-ID="MTV Live HD" tvg-name="GB: MTV LIVE SD/HD" tvg-logo="" group-title="UK MUSIC",GB: MTV LIVE SD/HD
+http://iptvglobal.uk:8080/live/all/all/26938.ts
+#EXTINF:-1 tvg-ID="MTV Music" tvg-name="GB: MTV Music SD/HD" tvg-logo="" group-title="UK MUSIC",GB: MTV Music SD/HD
+http://iptvglobal.uk:8080/live/all/all/1471.ts
+#EXTINF:-1 tvg-ID="MTV Rocks" tvg-name="GB: MTV Rocks SD/HD" tvg-logo="" group-title="UK MUSIC",GB: MTV Rocks SD/HD
+http://iptvglobal.uk:8080/live/all/all/26933.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: NOW 80's SD/HD" tvg-logo="" group-title="UK MUSIC",GB: NOW 80's SD/HD
+http://iptvglobal.uk:8080/live/all/all/2905.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: POP" tvg-logo="" group-title="UK KIDS",GB: POP
+http://iptvglobal.uk:8080/live/all/all/26968.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: POP MAX" tvg-logo="" group-title="UK KIDS",GB: POP MAX
+http://iptvglobal.uk:8080/live/all/all/26969.ts
+#EXTINF:-1 tvg-ID="Spike.uk" tvg-name="GB: SPIKE SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: SPIKE SD/HD
+http://iptvglobal.uk:8080/live/all/all/2423.ts
+#EXTINF:-1 tvg-ID="Tiny Pop" tvg-name="GB: TINY POP" tvg-logo="" group-title="UK KIDS",GB: TINY POP
+http://iptvglobal.uk:8080/live/all/all/3949.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: Tiny POP SD/HD" tvg-logo="" group-title="UK KIDS",GB: Tiny POP SD/HD
+http://iptvglobal.uk:8080/live/all/all/28367.ts
+#EXTINF:-1 tvg-ID="VH1UK.uk" tvg-name="GB: VH 1 SD/HD" tvg-logo="" group-title="UK MUSIC",GB: VH 1 SD/HD
+http://iptvglobal.uk:8080/live/all/all/838.ts
+#EXTINF:-1 tvg-ID="Vintage TV" tvg-name="GB: VINTAGE TV SD/HD" tvg-logo="" group-title="UK MUSIC",GB: VINTAGE TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/27011.ts
+#EXTINF:-1 tvg-ID="Viva" tvg-name="GB: VIVA SD/HD" tvg-logo="" group-title="UK MUSIC",GB: VIVA SD/HD
+http://iptvglobal.uk:8080/live/all/all/2913.ts
+#EXTINF:-1 tvg-ID="BBC News Channel" tvg-name="GB: BBC NEWS HD" tvg-logo="" group-title="UK NEWS",GB: BBC NEWS HD
+http://iptvglobal.uk:8080/live/all/all/26898.ts
+#EXTINF:-1 tvg-ID="BBC News HD" tvg-name="GB: BBC NEWS SD/HD" tvg-logo="" group-title="UK NEWS",GB: BBC NEWS SD/HD
+http://iptvglobal.uk:8080/live/all/all/1456.ts
+#EXTINF:-1 tvg-ID="CNN" tvg-name="GB: CNN INTERNATIONAL SD/HD" tvg-logo="" group-title="UK NEWS",GB: CNN INTERNATIONAL SD/HD
+http://iptvglobal.uk:8080/live/all/all/26947.ts
+#EXTINF:-1 tvg-ID="CNN" tvg-name="GB: CNN INTERNATIONAL" tvg-logo="" group-title="UK NEWS",GB: CNN INTERNATIONAL
+http://iptvglobal.uk:8080/live/all/all/523.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: SKY NEWS HD" tvg-logo="" group-title="UK NEWS",GB: SKY NEWS HD
+http://iptvglobal.uk:8080/live/all/all/27024.ts
+#EXTINF:-1 tvg-ID="Al Jazeera English" tvg-name="GB: AL JAZEERA NEWS ENGLISH SD/HD" tvg-logo="" group-title="UK NEWS",GB: AL JAZEERA NEWS ENGLISH SD/HD
+http://iptvglobal.uk:8080/live/all/all/28332.ts
+#EXTINF:-1 tvg-ID="Bloomberg" tvg-name="GB: BLOOMBERG NEWS SD/HD" tvg-logo="" group-title="UK NEWS",GB: BLOOMBERG NEWS SD/HD
+http://iptvglobal.uk:8080/live/all/all/28304.ts
+#EXTINF:-1 tvg-ID="Sky News HD" tvg-name="GB: SKY NEWS SD/HD" tvg-logo="" group-title="UK NEWS",GB: SKY NEWS SD/HD
+http://iptvglobal.uk:8080/live/all/all/203.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: RTE NEWS SD/HD" tvg-logo="" group-title="UK NEWS",GB: RTE NEWS SD/HD
+http://iptvglobal.uk:8080/live/all/all/26978.ts
+#EXTINF:-1 tvg-ID="FOX" tvg-name="GB: FOX NEWS SD/HD" tvg-logo="" group-title="UK NEWS",GB: FOX NEWS SD/HD
+http://iptvglobal.uk:8080/live/all/all/3950.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: EURO NEWS SD/HD" tvg-logo="" group-title="UK NEWS",GB: EURO NEWS SD/HD
+http://iptvglobal.uk:8080/live/all/all/2920.ts
+#EXTINF:-1 tvg-ID="&TV" tvg-name="GB: &TV SD/HD" tvg-logo="" group-title="UK ASIAN",GB: &TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/107.ts
+#EXTINF:-1 tvg-ID="MyChannel.uk" tvg-name="GB: 5 SELECT SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: 5 SELECT SD/HD
+http://iptvglobal.uk:8080/live/all/all/14902.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: ARY DIGITAL SD/HD" tvg-logo="" group-title="UK ASIAN",GB: ARY DIGITAL SD/HD
+http://iptvglobal.uk:8080/live/all/all/2914.ts
+#EXTINF:-1 tvg-ID="ARY News" tvg-name="GB: ARY NEWS SD/HD" tvg-logo="" group-title="UK ASIAN",GB: ARY NEWS SD/HD
+http://iptvglobal.uk:8080/live/all/all/1627.ts
+#EXTINF:-1 tvg-ID="B4U Movies" tvg-name="GB: B4U PLUS SD/HD" tvg-logo="" group-title="UK ASIAN",GB: B4U PLUS SD/HD
+http://iptvglobal.uk:8080/live/all/all/3958.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: GEO TEZ SD/HD" tvg-logo="" group-title="UK ASIAN",GB: GEO TEZ SD/HD
+http://iptvglobal.uk:8080/live/all/all/17101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: HBO SD/HD" tvg-logo="" group-title="UK MOVIES",GB: HBO SD/HD
+http://iptvglobal.uk:8080/live/all/all/1467.ts
+#EXTINF:-1 tvg-ID="LondonLive.uk" tvg-name="GB: LONDON LIVE SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: LONDON LIVE SD/HD
+http://iptvglobal.uk:8080/live/all/all/4781.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: MIO Eleven Sports HD" tvg-logo="" group-title="UK SPORTS",GB: MIO Eleven Sports HD
+http://iptvglobal.uk:8080/live/all/all/28471.ts
+#EXTINF:-1 tvg-ID="RTE1.ie" tvg-name="GB: RTE 1 SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: RTE 1 SD/HD
+http://iptvglobal.uk:8080/live/all/all/841.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: RUSSIA TODAY SD/HD" tvg-logo="" group-title="UK NEWS",GB: RUSSIA TODAY SD/HD
+http://iptvglobal.uk:8080/live/all/all/13318.ts
+#EXTINF:-1 tvg-ID="SkyMoviesDrama.uk" tvg-name="GB: SKY CINEMA DRAMA & ROMANCE SD/HD" tvg-logo="" group-title="UK MOVIES",GB: SKY CINEMA DRAMA & ROMANCE SD/HD
+http://iptvglobal.uk:8080/live/all/all/1960.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: SKY CINEMA HITS SD/HD" tvg-logo="" group-title="UK MOVIES",GB: SKY CINEMA HITS SD/HD
+http://iptvglobal.uk:8080/live/all/all/28450.ts
+#EXTINF:-1 tvg-ID="TheVault.uk" tvg-name="GB: THE VAULT SD/HD" tvg-logo="" group-title="UK MUSIC",GB: THE VAULT SD/HD
+http://iptvglobal.uk:8080/live/all/all/2910.ts
+#EXTINF:-1 tvg-ID="TLC.uk" tvg-name="GB: TLC SD/HD" tvg-logo="" group-title="UK REALITY",GB: TLC SD/HD
+http://iptvglobal.uk:8080/live/all/all/1462.ts
+#EXTINF:-1 tvg-ID="TravelChannel.uk" tvg-name="GB: TRAVEL CHANNEL SD/HD" tvg-logo="" group-title="UK REALITY",GB: TRAVEL CHANNEL SD/HD
+http://iptvglobal.uk:8080/live/all/all/68.ts
+#EXTINF:-1 tvg-ID="YourTV.uk" tvg-name="GB: YOUR TV SD/HD" tvg-logo="" group-title="UK ENTERTAINMENT",GB: YOUR TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/15803.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: ZEE BUSINESS SD/HD" tvg-logo="" group-title="UK ASIAN",GB: ZEE BUSINESS SD/HD
+http://iptvglobal.uk:8080/live/all/all/13313.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: ZEE LIVING SD/HD" tvg-logo="" group-title="INDIAN",GB: ZEE LIVING SD/HD
+http://iptvglobal.uk:8080/live/all/all/4769.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GB: ZEE NEWS SD/HD" tvg-logo="" group-title="UK ASIAN",GB: ZEE NEWS SD/HD
+http://iptvglobal.uk:8080/live/all/all/13312.ts
+#EXTINF:-1 tvg-ID="Zing" tvg-name="GB: Zoom TV SD/HD" tvg-logo="" group-title="UK ASIAN",GB: Zoom TV SD/HD
+http://iptvglobal.uk:8080/live/all/all/79.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: ALL IN THE FAMILY" tvg-logo="" group-title="24/7 CHANNELS",24/7: ALL IN THE FAMILY
+http://iptvglobal.uk:8080/live/all/all/9074.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: ARMY WIVES" tvg-logo="" group-title="24/7 CHANNELS",24/7: ARMY WIVES
+http://iptvglobal.uk:8080/live/all/all/9072.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: BBC EARTH" tvg-logo="" group-title="24/7 CHANNELS",24/7: BBC EARTH
+http://iptvglobal.uk:8080/live/all/all/3901.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: BETTER CALL SAUL" tvg-logo="" group-title="24/7 CHANNELS",24/7: BETTER CALL SAUL
+http://iptvglobal.uk:8080/live/all/all/9134.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: BOLLYWOOD MOVIES" tvg-logo="" group-title="24/7 CHANNELS",24/7: BOLLYWOOD MOVIES
+http://iptvglobal.uk:8080/live/all/all/9071.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: DISNEY CARTOONS" tvg-logo="" group-title="24/7 CHANNELS",24/7: DISNEY CARTOONS
+http://iptvglobal.uk:8080/live/all/all/9076.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: FAMILY GUY" tvg-logo="" group-title="24/7 CHANNELS",24/7: FAMILY GUY
+http://iptvglobal.uk:8080/live/all/all/9073.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: FIREMAN SAM" tvg-logo="" group-title="24/7 CHANNELS",24/7: FIREMAN SAM
+http://iptvglobal.uk:8080/live/all/all/9055.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: FRIENDS" tvg-logo="" group-title="24/7 CHANNELS",24/7: FRIENDS
+http://iptvglobal.uk:8080/live/all/all/9063.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: GAME OF THRONES" tvg-logo="" group-title="24/7 CHANNELS",24/7: GAME OF THRONES
+http://iptvglobal.uk:8080/live/all/all/9070.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: IN LIVING COLOUR" tvg-logo="" group-title="24/7 CHANNELS",24/7: IN LIVING COLOUR
+http://iptvglobal.uk:8080/live/all/all/9061.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: JAMES BOND MOVIES" tvg-logo="" group-title="24/7 CHANNELS",24/7: JAMES BOND MOVIES
+http://iptvglobal.uk:8080/live/all/all/28052.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: LEGO NINJAGO: MASTERS OF SPINJITSU" tvg-logo="" group-title="24/7 CHANNELS",24/7: LEGO NINJAGO: MASTERS OF SPINJITSU
+http://iptvglobal.uk:8080/live/all/all/9067.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: WESTERN MOVIES" tvg-logo="" group-title="24/7 CHANNELS",24/7: WESTERN MOVIES
+http://iptvglobal.uk:8080/live/all/all/9057.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: KIDS MOVIES" tvg-logo="" group-title="24/7 CHANNELS",24/7: KIDS MOVIES
+http://iptvglobal.uk:8080/live/all/all/3889.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: LIFE HACKS" tvg-logo="" group-title="24/7 CHANNELS",24/7: LIFE HACKS
+http://iptvglobal.uk:8080/live/all/all/9062.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: MR BEAN" tvg-logo="" group-title="24/7 CHANNELS",24/7: MR BEAN
+http://iptvglobal.uk:8080/live/all/all/9069.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: MY NAME IS EARL" tvg-logo="" group-title="24/7 CHANNELS",24/7: MY NAME IS EARL
+http://iptvglobal.uk:8080/live/all/all/3900.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: ONLY FOOLS N HORSES" tvg-logo="" group-title="24/7 CHANNELS",24/7: ONLY FOOLS N HORSES
+http://iptvglobal.uk:8080/live/all/all/9065.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: PAW.PATROL" tvg-logo="" group-title="24/7 CHANNELS",24/7: PAW.PATROL
+http://iptvglobal.uk:8080/live/all/all/9066.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: PEPPA PIG" tvg-logo="" group-title="24/7 CHANNELS",24/7: PEPPA PIG
+http://iptvglobal.uk:8080/live/all/all/9781.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: POP RADIO STATION" tvg-logo="" group-title="24/7 CHANNELS",24/7: POP RADIO STATION
+http://iptvglobal.uk:8080/live/all/all/3898.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: RED DWARF" tvg-logo="" group-title="24/7 CHANNELS",24/7: RED DWARF
+http://iptvglobal.uk:8080/live/all/all/9059.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: KIDS MOVIES 2" tvg-logo="" group-title="24/7 CHANNELS",24/7: KIDS MOVIES 2
+http://iptvglobal.uk:8080/live/all/all/9060.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: SHAUN THE SHEEP" tvg-logo="" group-title="24/7 CHANNELS",24/7: SHAUN THE SHEEP
+http://iptvglobal.uk:8080/live/all/all/9064.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: SUPERHERO MOVIES" tvg-logo="" group-title="24/7 CHANNELS",24/7: SUPERHERO MOVIES
+http://iptvglobal.uk:8080/live/all/all/9075.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: THE GRAND TOUR" tvg-logo="" group-title="24/7 CHANNELS",24/7: THE GRAND TOUR
+http://iptvglobal.uk:8080/live/all/all/9058.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: THE OFFICE" tvg-logo="" group-title="24/7 CHANNELS",24/7: THE OFFICE
+http://iptvglobal.uk:8080/live/all/all/9068.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24/7: THE QURAN CHANNEL" tvg-logo="" group-title="24/7 CHANNELS",24/7: THE QURAN CHANNEL
+http://iptvglobal.uk:8080/live/all/all/3946.ts
+#EXTINF:-1 tvg-ID="Sport TV 1 HD" tvg-name="3PM: PT SPORT TV 1 HD" tvg-logo="" group-title="3 PM & PL",3PM: PT SPORT TV 1 HD
+http://iptvglobal.uk:8080/live/all/all/1846.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: Sports Klub 3 HD" tvg-logo="" group-title="3 PM & PL",3PM: Sports Klub 3 HD
+http://iptvglobal.uk:8080/live/all/all/3873.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: H2" tvg-logo="" group-title="USA & CANADA",USA: H2
+http://iptvglobal.uk:8080/live/all/all/589.ts
+#EXTINF:-1 tvg-ID="Animal Plane (East)" tvg-name="USA: ANIMAL PLANET HD" tvg-logo="" group-title="USA & CANADA",USA: ANIMAL PLANET HD
+http://iptvglobal.uk:8080/live/all/all/13411.ts
+#EXTINF:-1 tvg-ID="The NFL Network" tvg-name="USA: NFL Network" tvg-logo="" group-title="USA & CANADA",USA: NFL Network
+http://iptvglobal.uk:8080/live/all/all/649.ts
+#EXTINF:-1 tvg-ID="Fox Sports 1 HD" tvg-name="USA: FOX SPORTS 1" tvg-logo="" group-title="USA & CANADA",USA: FOX SPORTS 1
+http://iptvglobal.uk:8080/live/all/all/655.ts
+#EXTINF:-1 tvg-ID="Fox Sports 1 HD" tvg-name="USA: FOX SPORTS 1 HD" tvg-logo="" group-title="USA & CANADA",USA: FOX SPORTS 1 HD
+http://iptvglobal.uk:8080/live/all/all/586.ts
+#EXTINF:-1 tvg-ID="Fox Sports 2" tvg-name="USA: FOX SPORTS 2" tvg-logo="" group-title="USA & CANADA",USA: FOX SPORTS 2
+http://iptvglobal.uk:8080/live/all/all/656.ts
+#EXTINF:-1 tvg-ID="Fox Sports 2" tvg-name="USA: FOX SPORTS 2 HD" tvg-logo="" group-title="USA & CANADA",USA: FOX SPORTS 2 HD
+http://iptvglobal.uk:8080/live/all/all/587.ts
+#EXTINF:-1 tvg-ID="FX HD (East)" tvg-name="USA: FX HD" tvg-logo="" group-title="USA & CANADA",USA: FX HD
+http://iptvglobal.uk:8080/live/all/all/648.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HBO Comedy HD" tvg-logo="" group-title="USA & CANADA",USA: HBO Comedy HD
+http://iptvglobal.uk:8080/live/all/all/644.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HBO" tvg-logo="" group-title="USA & CANADA",USA: HBO
+http://iptvglobal.uk:8080/live/all/all/591.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HBO Zone HD" tvg-logo="" group-title="USA & CANADA",USA: HBO Zone HD
+http://iptvglobal.uk:8080/live/all/all/592.ts
+#EXTINF:-1 tvg-ID="History (East)" tvg-name="USA: HISTORY HD" tvg-logo="" group-title="USA & CANADA",USA: HISTORY HD
+http://iptvglobal.uk:8080/live/all/all/593.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: MLB Network HD" tvg-logo="" group-title="USA & CANADA",USA: MLB Network HD
+http://iptvglobal.uk:8080/live/all/all/598.ts
+#EXTINF:-1 tvg-ID="National Geographic Channel" tvg-name="USA: NAT GEO HD" tvg-logo="" group-title="USA & CANADA",USA: NAT GEO HD
+http://iptvglobal.uk:8080/live/all/all/600.ts
+#EXTINF:-1 tvg-ID="NBA TV" tvg-name="USA: NBA TV HD" tvg-logo="" group-title="USA & CANADA",USA: NBA TV HD
+http://iptvglobal.uk:8080/live/all/all/601.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC GOLF" tvg-logo="" group-title="USA & CANADA",USA: NBC GOLF
+http://iptvglobal.uk:8080/live/all/all/603.ts
+#EXTINF:-1 tvg-ID="NBC" tvg-name="USA: NBC HD" tvg-logo="" group-title="USA & CANADA",USA: NBC HD
+http://iptvglobal.uk:8080/live/all/all/604.ts
+#EXTINF:-1 tvg-ID="NBC Sports Network" tvg-name="USA: NBCSN" tvg-logo="" group-title="USA & CANADA",USA: NBCSN
+http://iptvglobal.uk:8080/live/all/all/605.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NFL Network HD" tvg-logo="" group-title="USA & CANADA",USA: NFL Network HD
+http://iptvglobal.uk:8080/live/all/all/606.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: PAC 12 Arizona HD" tvg-logo="" group-title="USA & CANADA",USA: PAC 12 Arizona HD
+http://iptvglobal.uk:8080/live/all/all/609.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ShowTime 2 HD" tvg-logo="" group-title="USA & CANADA",USA: ShowTime 2 HD
+http://iptvglobal.uk:8080/live/all/all/611.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: SHOWTIME WEST" tvg-logo="" group-title="USA & CANADA",USA: SHOWTIME WEST
+http://iptvglobal.uk:8080/live/all/all/612.ts
+#EXTINF:-1 tvg-ID="Spike" tvg-name="USA: SPIKE HD" tvg-logo="" group-title="USA & CANADA",USA: SPIKE HD
+http://iptvglobal.uk:8080/live/all/all/613.ts
+#EXTINF:-1 tvg-ID="Sportsnet One" tvg-name="CA: SPORTSNET ONE HD" tvg-logo="" group-title="USA & CANADA",CA: SPORTSNET ONE HD
+http://iptvglobal.uk:8080/live/all/all/614.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Sports Net 360 HD" tvg-logo="" group-title="USA & CANADA",USA: Sports Net 360 HD
+http://iptvglobal.uk:8080/live/all/all/615.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Sports Net Ontario HD" tvg-logo="" group-title="USA & CANADA",USA: Sports Net Ontario HD
+http://iptvglobal.uk:8080/live/all/all/617.ts
+#EXTINF:-1 tvg-ID="SportsnetWorld.ca" tvg-name="USA: SPORTS NET WORLD HD" tvg-logo="" group-title="USA & CANADA",USA: SPORTS NET WORLD HD
+http://iptvglobal.uk:8080/live/all/all/618.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Star Edge East US" tvg-logo="" group-title="USA & CANADA",USA: Star Edge East US
+http://iptvglobal.uk:8080/live/all/all/651.ts
+#EXTINF:-1 tvg-ID="STARZ Cinema HD (East)" tvg-name="USA: Starz Cinema HD" tvg-logo="" group-title="USA & CANADA",USA: Starz Cinema HD
+http://iptvglobal.uk:8080/live/all/all/619.ts
+#EXTINF:-1 tvg-ID="STARZ ENCORE HD (East)" tvg-name="USA: Starz Encore HD" tvg-logo="" group-title="USA & CANADA",USA: Starz Encore HD
+http://iptvglobal.uk:8080/live/all/all/620.ts
+#EXTINF:-1 tvg-ID="Syfy (East)" tvg-name="USA: SYFY" tvg-logo="" group-title="USA & CANADA",USA: SYFY
+http://iptvglobal.uk:8080/live/all/all/621.ts
+#EXTINF:-1 tvg-ID="TBS" tvg-name="USA: TBS HD" tvg-logo="" group-title="USA & CANADA",USA: TBS HD
+http://iptvglobal.uk:8080/live/all/all/622.ts
+#EXTINF:-1 tvg-ID="Tennis Channel" tvg-name="USA: Tennis Channel HD" tvg-logo="" group-title="USA & CANADA",USA: Tennis Channel HD
+http://iptvglobal.uk:8080/live/all/all/623.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: The Florida Channel" tvg-logo="" group-title="USA & CANADA",USA: The Florida Channel
+http://iptvglobal.uk:8080/live/all/all/624.ts
+#EXTINF:-1 tvg-ID="Turner Network Television (East)" tvg-name="USA: TNT HD" tvg-logo="" group-title="USA & CANADA",USA: TNT HD
+http://iptvglobal.uk:8080/live/all/all/652.ts
+#EXTINF:-1 tvg-ID="TSN1" tvg-name="USA: TSN 1 HD" tvg-logo="" group-title="USA & CANADA",USA: TSN 1 HD
+http://iptvglobal.uk:8080/live/all/all/626.ts
+#EXTINF:-1 tvg-ID="TSN2" tvg-name="USA: TSN 2 HD" tvg-logo="" group-title="USA & CANADA",USA: TSN 2 HD
+http://iptvglobal.uk:8080/live/all/all/627.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TSN 3 HD" tvg-logo="" group-title="USA & CANADA",USA: TSN 3 HD
+http://iptvglobal.uk:8080/live/all/all/628.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TSN 4 HD" tvg-logo="" group-title="USA & CANADA",USA: TSN 4 HD
+http://iptvglobal.uk:8080/live/all/all/629.ts
+#EXTINF:-1 tvg-ID="TSN5" tvg-name="USA: TSN 5 HD" tvg-logo="" group-title="USA & CANADA",USA: TSN 5 HD
+http://iptvglobal.uk:8080/live/all/all/630.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: WILLOW CRICKET HD" tvg-logo="" group-title="USA & CANADA",USA: WILLOW CRICKET HD
+http://iptvglobal.uk:8080/live/all/all/636.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: WWE HD" tvg-logo="" group-title="USA & CANADA",USA: WWE HD
+http://iptvglobal.uk:8080/live/all/all/996.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: 5 USA" tvg-logo="" group-title="USA & CANADA",USA: 5 USA
+http://iptvglobal.uk:8080/live/all/all/568.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: BYU Sports HD" tvg-logo="" group-title="USA & CANADA",USA: BYU Sports HD
+http://iptvglobal.uk:8080/live/all/all/569.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: C Span" tvg-logo="" group-title="USA & CANADA",USA: C Span
+http://iptvglobal.uk:8080/live/all/all/570.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CNN News" tvg-logo="" group-title="USA & CANADA",USA: CNN News
+http://iptvglobal.uk:8080/live/all/all/571.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CW HD" tvg-logo="" group-title="USA & CANADA",USA: CW HD
+http://iptvglobal.uk:8080/live/all/all/572.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Discovery-Science-HD" tvg-logo="" group-title="USA & CANADA",USA: Discovery-Science-HD
+http://iptvglobal.uk:8080/live/all/all/575.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: E!" tvg-logo="" group-title="USA & CANADA",USA: E!
+http://iptvglobal.uk:8080/live/all/all/576.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ESPN News HD" tvg-logo="" group-title="USA & CANADA",USA: ESPN News HD
+http://iptvglobal.uk:8080/live/all/all/577.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ESPN 2 HD" tvg-logo="" group-title="USA & CANADA",USA: ESPN 2 HD
+http://iptvglobal.uk:8080/live/all/all/578.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ESPN HD" tvg-logo="" group-title="USA & CANADA",USA: ESPN HD
+http://iptvglobal.uk:8080/live/all/all/579.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FIX TV HD" tvg-logo="" group-title="USA & CANADA",USA: FIX TV HD
+http://iptvglobal.uk:8080/live/all/all/581.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Food Network" tvg-logo="" group-title="USA & CANADA",USA: Food Network
+http://iptvglobal.uk:8080/live/all/all/582.ts
+#EXTINF:-1 tvg-ID="FX HD (East)" tvg-name="USA: FOX HD" tvg-logo="" group-title="USA & CANADA",USA: FOX HD
+http://iptvglobal.uk:8080/live/all/all/583.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: PBS" tvg-logo="" group-title="USA & CANADA",USA: PBS
+http://iptvglobal.uk:8080/live/all/all/599.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: UFC FIGHT PASS." tvg-logo="" group-title="USA & CANADA",USA: UFC FIGHT PASS.
+http://iptvglobal.uk:8080/live/all/all/564.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: MLBTV extra innings" tvg-logo="" group-title="USA & CANADA",USA: MLBTV extra innings
+http://iptvglobal.uk:8080/live/all/all/565.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: AFN SPORTS 2 HD" tvg-logo="" group-title="USA & CANADA",USA: AFN SPORTS 2 HD
+http://iptvglobal.uk:8080/live/all/all/3893.ts
+#EXTINF:-1 tvg-ID="beIN Sports HD (English)" tvg-name="USA: BEIN SPORTS" tvg-logo="" group-title="USA & CANADA",USA: BEIN SPORTS
+http://iptvglobal.uk:8080/live/all/all/4607.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CBS DRAMA" tvg-logo="" group-title="USA & CANADA",USA: CBS DRAMA
+http://iptvglobal.uk:8080/live/all/all/4608.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CBSN" tvg-logo="" group-title="USA & CANADA",USA: CBSN
+http://iptvglobal.uk:8080/live/all/all/4609.ts
+#EXTINF:-1 tvg-ID="NBC Sports Network" tvg-name="USA: NBC Sports Network" tvg-logo="" group-title="USA & CANADA",USA: NBC Sports Network
+http://iptvglobal.uk:8080/live/all/all/4606.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HGTV" tvg-logo="" group-title="USA & CANADA",USA: HGTV
+http://iptvglobal.uk:8080/live/all/all/4610.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="USA & CANADA",USA: NATIONAL GEOGRAPHIC
+http://iptvglobal.uk:8080/live/all/all/4611.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ABC NEWS" tvg-logo="" group-title="USA & CANADA",USA: ABC NEWS
+http://iptvglobal.uk:8080/live/all/all/4648.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ABC Spark" tvg-logo="" group-title="USA & CANADA",USA: ABC Spark
+http://iptvglobal.uk:8080/live/all/all/4646.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: AFN Movies" tvg-logo="" group-title="USA & CANADA",USA: AFN Movies
+http://iptvglobal.uk:8080/live/all/all/4647.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: AFN Prime Pacific" tvg-logo="" group-title="USA & CANADA",USA: AFN Prime Pacific
+http://iptvglobal.uk:8080/live/all/all/4649.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Red bull TV" tvg-logo="" group-title="USA & CANADA",USA: Red bull TV
+http://iptvglobal.uk:8080/live/all/all/4650.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Beauty iQ" tvg-logo="" group-title="USA & CANADA",USA: Beauty iQ
+http://iptvglobal.uk:8080/live/all/all/4651.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Bet" tvg-logo="" group-title="USA & CANADA",USA: Bet
+http://iptvglobal.uk:8080/live/all/all/4652.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Big TEN Network" tvg-logo="" group-title="USA & CANADA",USA: Big TEN Network
+http://iptvglobal.uk:8080/live/all/all/4653.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: BLOOMBERG HD" tvg-logo="" group-title="USA & CANADA",USA: BLOOMBERG HD
+http://iptvglobal.uk:8080/live/all/all/4654.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Byu Sports TV" tvg-logo="" group-title="USA & CANADA",USA: Byu Sports TV
+http://iptvglobal.uk:8080/live/all/all/4655.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: C-Span 1" tvg-logo="" group-title="USA & CANADA",USA: C-Span 1
+http://iptvglobal.uk:8080/live/all/all/4656.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: C-Span 2" tvg-logo="" group-title="USA & CANADA",USA: C-Span 2
+http://iptvglobal.uk:8080/live/all/all/4657.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: C-Span 3" tvg-logo="" group-title="USA & CANADA",USA: C-Span 3
+http://iptvglobal.uk:8080/live/all/all/4658.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Cartoon Network" tvg-logo="" group-title="USA & CANADA",USA: Cartoon Network
+http://iptvglobal.uk:8080/live/all/all/4659.ts
+#EXTINF:-1 tvg-ID="CBS" tvg-name="USA: CBS" tvg-logo="" group-title="USA & CANADA",USA: CBS
+http://iptvglobal.uk:8080/live/all/all/4660.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CBS Sports" tvg-logo="" group-title="USA & CANADA",USA: CBS Sports
+http://iptvglobal.uk:8080/live/all/all/4661.ts
+#EXTINF:-1 tvg-ID="Daystar Television Network" tvg-name="USA: DAYSTAR HD" tvg-logo="" group-title="USA & CANADA",USA: DAYSTAR HD
+http://iptvglobal.uk:8080/live/all/all/4662.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Destination America" tvg-logo="" group-title="USA & CANADA",USA: Destination America
+http://iptvglobal.uk:8080/live/all/all/4663.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Disney XD" tvg-logo="" group-title="USA & CANADA",USA: Disney XD
+http://iptvglobal.uk:8080/live/all/all/4664.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ESPN 3" tvg-logo="" group-title="USA & CANADA",USA: ESPN 3
+http://iptvglobal.uk:8080/live/all/all/4665.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ESPN U" tvg-logo="" group-title="USA & CANADA",USA: ESPN U
+http://iptvglobal.uk:8080/live/all/all/4666.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Fox News" tvg-logo="" group-title="USA & CANADA",USA: Fox News
+http://iptvglobal.uk:8080/live/all/all/4667.ts
+#EXTINF:-1 tvg-ID="HBO (East)" tvg-name="USA: HBO EAST" tvg-logo="" group-title="USA & CANADA",USA: HBO EAST
+http://iptvglobal.uk:8080/live/all/all/4669.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HBO Family" tvg-logo="" group-title="USA & CANADA",USA: HBO Family
+http://iptvglobal.uk:8080/live/all/all/4670.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Investigation Discovery" tvg-logo="" group-title="USA & CANADA",USA: Investigation Discovery
+http://iptvglobal.uk:8080/live/all/all/4671.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: JBTV Music" tvg-logo="" group-title="USA & CANADA",USA: JBTV Music
+http://iptvglobal.uk:8080/live/all/all/4672.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: LifeTime HD" tvg-logo="" group-title="USA & CANADA",USA: LifeTime HD
+http://iptvglobal.uk:8080/live/all/all/4673.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: More Max" tvg-logo="" group-title="USA & CANADA",USA: More Max
+http://iptvglobal.uk:8080/live/all/all/4674.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: MSNBC" tvg-logo="" group-title="USA & CANADA",USA: MSNBC
+http://iptvglobal.uk:8080/live/all/all/4675.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: MTV +1" tvg-logo="" group-title="USA & CANADA",USA: MTV +1
+http://iptvglobal.uk:8080/live/all/all/4676.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: MTV Live" tvg-logo="" group-title="USA & CANADA",USA: MTV Live
+http://iptvglobal.uk:8080/live/all/all/4677.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NASA TV HD" tvg-logo="" group-title="USA & CANADA",USA: NASA TV HD
+http://iptvglobal.uk:8080/live/all/all/4678.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NHL NETWORK HD" tvg-logo="" group-title="USA & CANADA",USA: NHL NETWORK HD
+http://iptvglobal.uk:8080/live/all/all/4679.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: Nick" tvg-logo="" group-title="USA & CANADA",USA: Nick
+http://iptvglobal.uk:8080/live/all/all/4680.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: OWN" tvg-logo="" group-title="USA & CANADA",USA: OWN
+http://iptvglobal.uk:8080/live/all/all/4681.ts
+#EXTINF:-1 tvg-ID="Oxygen (East)" tvg-name="USA: OXYGEN" tvg-logo="" group-title="USA & CANADA",USA: OXYGEN
+http://iptvglobal.uk:8080/live/all/all/4682.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NFL RED ZONE" tvg-logo="" group-title="USA & CANADA",USA: NFL RED ZONE
+http://iptvglobal.uk:8080/live/all/all/4684.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: RT America" tvg-logo="" group-title="USA & CANADA",USA: RT America
+http://iptvglobal.uk:8080/live/all/all/4685.ts
+#EXTINF:-1 tvg-ID="Bravo" tvg-name="USA: BRAVO HD" tvg-logo="" group-title="USA & CANADA",USA: BRAVO HD
+http://iptvglobal.uk:8080/live/all/all/4686.ts
+#EXTINF:-1 tvg-ID="Starz (East)" tvg-name="USA: Starz East" tvg-logo="" group-title="USA & CANADA",USA: Starz East
+http://iptvglobal.uk:8080/live/all/all/4687.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TLC" tvg-logo="" group-title="USA & CANADA",USA: TLC
+http://iptvglobal.uk:8080/live/all/all/4690.ts
+#EXTINF:-1 tvg-ID="Travel Channel (East)" tvg-name="USA: Travel Channel" tvg-logo="" group-title="USA & CANADA",USA: Travel Channel
+http://iptvglobal.uk:8080/live/all/all/4691.ts
+#EXTINF:-1 tvg-ID="Trinity Broadcasting Network" tvg-name="USA: TRT World HD" tvg-logo="" group-title="USA & CANADA",USA: TRT World HD
+http://iptvglobal.uk:8080/live/all/all/4692.ts
+#EXTINF:-1 tvg-ID="TV Land (East)" tvg-name="USA: TV Land" tvg-logo="" group-title="USA & CANADA",USA: TV Land
+http://iptvglobal.uk:8080/live/all/all/4693.ts
+#EXTINF:-1 tvg-ID="USA Network HD (East)" tvg-name="USA: USA Network" tvg-logo="" group-title="USA & CANADA",USA: USA Network
+http://iptvglobal.uk:8080/live/all/all/4694.ts
+#EXTINF:-1 tvg-ID="US: EPIX HD - East" tvg-name="USA: EPIX 1 HD" tvg-logo="" group-title="USA & CANADA",USA: EPIX 1 HD
+http://iptvglobal.uk:8080/live/all/all/4695.ts
+#EXTINF:-1 tvg-ID="VH1 HD (East)" tvg-name="USA: VH1" tvg-logo="" group-title="USA & CANADA",USA: VH1
+http://iptvglobal.uk:8080/live/all/all/4696.ts
+#EXTINF:-1 tvg-ID="Starz Edge (East)" tvg-name="USA: Starz Edge" tvg-logo="" group-title="USA & CANADA",USA: Starz Edge
+http://iptvglobal.uk:8080/live/all/all/4688.ts
+#EXTINF:-1 tvg-ID="STARZ ENCORE (West)" tvg-name="USA: Starz West" tvg-logo="" group-title="USA & CANADA",USA: Starz West
+http://iptvglobal.uk:8080/live/all/all/4689.ts
+#EXTINF:-1 tvg-ID="VICELAND HD" tvg-name="USA: ViceLand" tvg-logo="" group-title="USA & CANADA",USA: ViceLand
+http://iptvglobal.uk:8080/live/all/all/4697.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA LEAGUE PASS LIVE 1 HD" tvg-logo="" group-title="WORLD SPORTS",NBA LEAGUE PASS LIVE 1 HD
+http://iptvglobal.uk:8080/live/all/all/9837.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA LEAGUE PASS LIVE 10 HD" tvg-logo="" group-title="WORLD SPORTS",NBA LEAGUE PASS LIVE 10 HD
+http://iptvglobal.uk:8080/live/all/all/9828.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA LEAGUE PASS LIVE 14 HD" tvg-logo="" group-title="WORLD SPORTS",NBA LEAGUE PASS LIVE 14 HD
+http://iptvglobal.uk:8080/live/all/all/9827.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA LEAGUE PASS LIVE 15 HD" tvg-logo="" group-title="WORLD SPORTS",NBA LEAGUE PASS LIVE 15 HD
+http://iptvglobal.uk:8080/live/all/all/9826.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA LEAGUE PASS LIVE 2 HD" tvg-logo="" group-title="WORLD SPORTS",NBA LEAGUE PASS LIVE 2 HD
+http://iptvglobal.uk:8080/live/all/all/9836.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA LEAGUE PASS LIVE 3 HD" tvg-logo="" group-title="WORLD SPORTS",NBA LEAGUE PASS LIVE 3 HD
+http://iptvglobal.uk:8080/live/all/all/9835.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA LEAGUE PASS LIVE 4 HD" tvg-logo="" group-title="WORLD SPORTS",NBA LEAGUE PASS LIVE 4 HD
+http://iptvglobal.uk:8080/live/all/all/9834.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA LEAGUE PASS LIVE 5 HD" tvg-logo="" group-title="WORLD SPORTS",NBA LEAGUE PASS LIVE 5 HD
+http://iptvglobal.uk:8080/live/all/all/9833.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA LEAGUE PASS LIVE 6 HD" tvg-logo="" group-title="WORLD SPORTS",NBA LEAGUE PASS LIVE 6 HD
+http://iptvglobal.uk:8080/live/all/all/9832.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA LEAGUE PASS LIVE 7 HD" tvg-logo="" group-title="WORLD SPORTS",NBA LEAGUE PASS LIVE 7 HD
+http://iptvglobal.uk:8080/live/all/all/9831.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA LEAGUE PASS LIVE 8 HD" tvg-logo="" group-title="WORLD SPORTS",NBA LEAGUE PASS LIVE 8 HD
+http://iptvglobal.uk:8080/live/all/all/9830.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA LEAGUE PASS LIVE 9 HD" tvg-logo="" group-title="WORLD SPORTS",NBA LEAGUE PASS LIVE 9 HD
+http://iptvglobal.uk:8080/live/all/all/9829.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: BEIN SPORTS 11 HD" tvg-logo="" group-title="3 PM & PL",3PM: BEIN SPORTS 11 HD
+http://iptvglobal.uk:8080/live/all/all/3947.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: BEIN SPORTS 12 HD" tvg-logo="" group-title="3 PM & PL",3PM: BEIN SPORTS 12 HD
+http://iptvglobal.uk:8080/live/all/all/3948.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TSN 2" tvg-logo="" group-title="USA & CANADA",USA: TSN 2
+http://iptvglobal.uk:8080/live/all/all/6172.ts
+#EXTINF:-1 tvg-ID="Sportsnet World" tvg-name="CA: SPORTS NET WORLD HD" tvg-logo="" group-title="USA & CANADA",CA: SPORTS NET WORLD HD
+http://iptvglobal.uk:8080/live/all/all/3708.ts
+#EXTINF:-1 tvg-ID="Sportsnet (East) - Satellite/Digital" tvg-name="CA: Sports Net East HD" tvg-logo="" group-title="USA & CANADA",CA: Sports Net East HD
+http://iptvglobal.uk:8080/live/all/all/3712.ts
+#EXTINF:-1 tvg-ID="Sportsnet One" tvg-name="CA: Sports Net One HD" tvg-logo="" group-title="USA & CANADA",CA: Sports Net One HD
+http://iptvglobal.uk:8080/live/all/all/3711.ts
+#EXTINF:-1 tvg-ID="Sportsnet (Ontario)" tvg-name="CA: Sports Net Ontario" tvg-logo="" group-title="USA & CANADA",CA: Sports Net Ontario
+http://iptvglobal.uk:8080/live/all/all/3710.ts
+#EXTINF:-1 tvg-ID="Sportsnet (Pacific) - Satellite/Digital" tvg-name="CA: Sports Net Pacific HD" tvg-logo="" group-title="USA & CANADA",CA: Sports Net Pacific HD
+http://iptvglobal.uk:8080/live/all/all/3709.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPFL: ABERDEEN TV (live during match)" tvg-logo="" group-title="3 PM & PL",SPFL: ABERDEEN TV (live during match)
+http://iptvglobal.uk:8080/live/all/all/4830.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPFL: DUNDEE TV (live during match)" tvg-logo="" group-title="3 PM & PL",SPFL: DUNDEE TV (live during match)
+http://iptvglobal.uk:8080/live/all/all/4828.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPFL: HEARTS TV (living during match)" tvg-logo="" group-title="3 PM & PL",SPFL: HEARTS TV (living during match)
+http://iptvglobal.uk:8080/live/all/all/4827.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPFL: HIBS TV (live during match)" tvg-logo="" group-title="3 PM & PL",SPFL: HIBS TV (live during match)
+http://iptvglobal.uk:8080/live/all/all/4826.ts
+#EXTINF:-1 tvg-ID="Sport TV 1 HD" tvg-name="3PM: PT SPORT TV 1" tvg-logo="" group-title="3 PM & PL",3PM: PT SPORT TV 1
+http://iptvglobal.uk:8080/live/all/all/11600.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: Arena Sports 1 HD" tvg-logo="" group-title="3 PM & PL",3PM: Arena Sports 1 HD
+http://iptvglobal.uk:8080/live/all/all/3726.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: Arena Sports 2 HD" tvg-logo="" group-title="3 PM & PL",3PM: Arena Sports 2 HD
+http://iptvglobal.uk:8080/live/all/all/3725.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: Arena Sports 3 HD" tvg-logo="" group-title="3 PM & PL",3PM: Arena Sports 3 HD
+http://iptvglobal.uk:8080/live/all/all/3724.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: Arena Sports 4 HD" tvg-logo="" group-title="3 PM & PL",3PM: Arena Sports 4 HD
+http://iptvglobal.uk:8080/live/all/all/3723.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: Arena Sports 5 HD" tvg-logo="" group-title="3 PM & PL",3PM: Arena Sports 5 HD
+http://iptvglobal.uk:8080/live/all/all/3722.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: Lig TV 1 HD TR" tvg-logo="" group-title="3 PM & PL",3PM: Lig TV 1 HD TR
+http://iptvglobal.uk:8080/live/all/all/3721.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: Lig TV 2 HD TR" tvg-logo="" group-title="3 PM & PL",3PM: Lig TV 2 HD TR
+http://iptvglobal.uk:8080/live/all/all/3720.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: Lig TV 3 HD TR" tvg-logo="" group-title="3 PM & PL",3PM: Lig TV 3 HD TR
+http://iptvglobal.uk:8080/live/all/all/3719.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: DIGI SPORTS 1" tvg-logo="" group-title="3 PM & PL",3PM: DIGI SPORTS 1
+http://iptvglobal.uk:8080/live/all/all/10957.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: DIGI SPORTS 2" tvg-logo="" group-title="3 PM & PL",3PM: DIGI SPORTS 2
+http://iptvglobal.uk:8080/live/all/all/4870.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: DIGI SPORTS 3" tvg-logo="" group-title="3 PM & PL",3PM: DIGI SPORTS 3
+http://iptvglobal.uk:8080/live/all/all/4871.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: SPORTS KLUB 1" tvg-logo="" group-title="3 PM & PL",3PM: SPORTS KLUB 1
+http://iptvglobal.uk:8080/live/all/all/11135.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: SPORTS KLUB 3" tvg-logo="" group-title="3 PM & PL",3PM: SPORTS KLUB 3
+http://iptvglobal.uk:8080/live/all/all/11136.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: SKYNET SPORTS HD" tvg-logo="" group-title="3 PM & PL",3PM: SKYNET SPORTS HD
+http://iptvglobal.uk:8080/live/all/all/3718.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: SKYNET SPORTS 1" tvg-logo="" group-title="3 PM & PL",3PM: SKYNET SPORTS 1
+http://iptvglobal.uk:8080/live/all/all/2181.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: SKYNET SPORTS 2" tvg-logo="" group-title="3 PM & PL",3PM: SKYNET SPORTS 2
+http://iptvglobal.uk:8080/live/all/all/2180.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: SKYNET SPORTS 3" tvg-logo="" group-title="3 PM & PL",3PM: SKYNET SPORTS 3
+http://iptvglobal.uk:8080/live/all/all/2179.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: SKYNET SPORTS 4" tvg-logo="" group-title="3 PM & PL",3PM: SKYNET SPORTS 4
+http://iptvglobal.uk:8080/live/all/all/2178.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: SKYNET SPORTS 5" tvg-logo="" group-title="3 PM & PL",3PM: SKYNET SPORTS 5
+http://iptvglobal.uk:8080/live/all/all/2177.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: SKYNET SPORTS 6" tvg-logo="" group-title="3 PM & PL",3PM: SKYNET SPORTS 6
+http://iptvglobal.uk:8080/live/all/all/3713.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: Bein 1 English TR" tvg-logo="" group-title="3 PM & PL",3PM: Bein 1 English TR
+http://iptvglobal.uk:8080/live/all/all/13388.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: Bein 2 English TR" tvg-logo="" group-title="3 PM & PL",3PM: Bein 2 English TR
+http://iptvglobal.uk:8080/live/all/all/13389.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: Bein 3 English TR" tvg-logo="" group-title="3 PM & PL",3PM: Bein 3 English TR
+http://iptvglobal.uk:8080/live/all/all/13390.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3PM: Bein 4 English TR" tvg-logo="" group-title="3 PM & PL",3PM: Bein 4 English TR
+http://iptvglobal.uk:8080/live/all/all/13391.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN: SPORTS 1 HD" tvg-logo="" group-title="WORLD SPORTS",OSN: SPORTS 1 HD
+http://iptvglobal.uk:8080/live/all/all/2430.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN: SPORTS 2 HD" tvg-logo="" group-title="WORLD SPORTS",OSN: SPORTS 2 HD
+http://iptvglobal.uk:8080/live/all/all/2429.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN: SPORTS 3 HD" tvg-logo="" group-title="WORLD SPORTS",OSN: SPORTS 3 HD
+http://iptvglobal.uk:8080/live/all/all/2428.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN: SPORTS 4 HD" tvg-logo="" group-title="WORLD SPORTS",OSN: SPORTS 4 HD
+http://iptvglobal.uk:8080/live/all/all/2427.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: A&E HD" tvg-logo="" group-title="USA & CANADA",CAN: A&E HD
+http://iptvglobal.uk:8080/live/all/all/27857.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: ABC HD" tvg-logo="" group-title="USA & CANADA",CAN: ABC HD
+http://iptvglobal.uk:8080/live/all/all/27856.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: ABC SPARK" tvg-logo="" group-title="USA & CANADA",CAN: ABC SPARK
+http://iptvglobal.uk:8080/live/all/all/27855.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: AMC HD" tvg-logo="" group-title="USA & CANADA",CAN: AMC HD
+http://iptvglobal.uk:8080/live/all/all/27854.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: BNN HD" tvg-logo="" group-title="USA & CANADA",CAN: BNN HD
+http://iptvglobal.uk:8080/live/all/all/27853.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: BRAVO HD" tvg-logo="" group-title="USA & CANADA",CAN: BRAVO HD
+http://iptvglobal.uk:8080/live/all/all/27852.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: CBC ATLANTIC HD" tvg-logo="" group-title="USA & CANADA",CAN: CBC ATLANTIC HD
+http://iptvglobal.uk:8080/live/all/all/27851.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: CBC HD" tvg-logo="" group-title="USA & CANADA",CAN: CBC HD
+http://iptvglobal.uk:8080/live/all/all/27850.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: CBC NEWS HD" tvg-logo="" group-title="USA & CANADA",CAN: CBC NEWS HD
+http://iptvglobal.uk:8080/live/all/all/27849.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: CBS FHD" tvg-logo="" group-title="USA & CANADA",CAN: CBS FHD
+http://iptvglobal.uk:8080/live/all/all/27848.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: CHCH HD" tvg-logo="" group-title="USA & CANADA",CAN: CHCH HD
+http://iptvglobal.uk:8080/live/all/all/27847.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: CITY FHD" tvg-logo="" group-title="USA & CANADA",CAN: CITY FHD
+http://iptvglobal.uk:8080/live/all/all/27846.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: CNN HD" tvg-logo="" group-title="USA & CANADA",CAN: CNN HD
+http://iptvglobal.uk:8080/live/all/all/27845.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: COMEDY HD" tvg-logo="" group-title="USA & CANADA",CAN: COMEDY HD
+http://iptvglobal.uk:8080/live/all/all/27844.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: CP 24 HD" tvg-logo="" group-title="USA & CANADA",CAN: CP 24 HD
+http://iptvglobal.uk:8080/live/all/all/27843.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: CPAC HD" tvg-logo="" group-title="USA & CANADA",CAN: CPAC HD
+http://iptvglobal.uk:8080/live/all/all/27842.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: CREATE HD" tvg-logo="" group-title="USA & CANADA",CAN: CREATE HD
+http://iptvglobal.uk:8080/live/all/all/27841.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: CTV ATLANTIC" tvg-logo="" group-title="USA & CANADA",CAN: CTV ATLANTIC
+http://iptvglobal.uk:8080/live/all/all/27840.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: CTV FHD" tvg-logo="" group-title="USA & CANADA",CAN: CTV FHD
+http://iptvglobal.uk:8080/live/all/all/27839.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: CTV NEWS HD" tvg-logo="" group-title="USA & CANADA",CAN: CTV NEWS HD
+http://iptvglobal.uk:8080/live/all/all/27838.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: CW HD" tvg-logo="" group-title="USA & CANADA",CAN: CW HD
+http://iptvglobal.uk:8080/live/all/all/27837.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: DISNEY HD" tvg-logo="" group-title="USA & CANADA",CAN: DISNEY HD
+http://iptvglobal.uk:8080/live/all/all/27836.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: DISNEY JR HD" tvg-logo="" group-title="USA & CANADA",CAN: DISNEY JR HD
+http://iptvglobal.uk:8080/live/all/all/27835.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: DISNEY XD HD" tvg-logo="" group-title="USA & CANADA",CAN: DISNEY XD HD
+http://iptvglobal.uk:8080/live/all/all/27834.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: E! HD" tvg-logo="" group-title="USA & CANADA",CAN: E! HD
+http://iptvglobal.uk:8080/live/all/all/27833.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: Food Network HD" tvg-logo="" group-title="USA & CANADA",CAN: Food Network HD
+http://iptvglobal.uk:8080/live/all/all/27832.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: FOX HD" tvg-logo="" group-title="USA & CANADA",CAN: FOX HD
+http://iptvglobal.uk:8080/live/all/all/27831.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: FX HD" tvg-logo="" group-title="USA & CANADA",CAN: FX HD
+http://iptvglobal.uk:8080/live/all/all/27830.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: FXX HD" tvg-logo="" group-title="USA & CANADA",CAN: FXX HD
+http://iptvglobal.uk:8080/live/all/all/27829.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: GLOBAL FHD" tvg-logo="" group-title="USA & CANADA",CAN: GLOBAL FHD
+http://iptvglobal.uk:8080/live/all/all/27828.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: GSN HD" tvg-logo="" group-title="USA & CANADA",CAN: GSN HD
+http://iptvglobal.uk:8080/live/all/all/27827.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: HBO 2 HD" tvg-logo="" group-title="USA & CANADA",CAN: HBO 2 HD
+http://iptvglobal.uk:8080/live/all/all/27826.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: HBO HD" tvg-logo="" group-title="USA & CANADA",CAN: HBO HD
+http://iptvglobal.uk:8080/live/all/all/27825.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: HGTV HD" tvg-logo="" group-title="USA & CANADA",CAN: HGTV HD
+http://iptvglobal.uk:8080/live/all/all/27824.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: HISTORY HD" tvg-logo="" group-title="USA & CANADA",CAN: HISTORY HD
+http://iptvglobal.uk:8080/live/all/all/27823.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: HLN HD" tvg-logo="" group-title="USA & CANADA",CAN: HLN HD
+http://iptvglobal.uk:8080/live/all/all/27822.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: Lifetime HD" tvg-logo="" group-title="USA & CANADA",CAN: Lifetime HD
+http://iptvglobal.uk:8080/live/all/all/27821.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: ME TV HD" tvg-logo="" group-title="USA & CANADA",CAN: ME TV HD
+http://iptvglobal.uk:8080/live/all/all/27820.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: MOVIES HD (Stopped)" tvg-logo="" group-title="USA & CANADA",CAN: MOVIES HD (Stopped)
+http://iptvglobal.uk:8080/live/all/all/27819.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: MSNBC HD" tvg-logo="" group-title="USA & CANADA",CAN: MSNBC HD
+http://iptvglobal.uk:8080/live/all/all/27818.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: NAT GEO HD" tvg-logo="" group-title="USA & CANADA",CAN: NAT GEO HD
+http://iptvglobal.uk:8080/live/all/all/27817.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: NAT GEO WILD HD" tvg-logo="" group-title="USA & CANADA",CAN: NAT GEO WILD HD
+http://iptvglobal.uk:8080/live/all/all/27816.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: NBC FHD" tvg-logo="" group-title="USA & CANADA",CAN: NBC FHD
+http://iptvglobal.uk:8080/live/all/all/27815.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: OLN HD" tvg-logo="" group-title="USA & CANADA",CAN: OLN HD
+http://iptvglobal.uk:8080/live/all/all/27858.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: OWN HD" tvg-logo="" group-title="USA & CANADA",CAN: OWN HD
+http://iptvglobal.uk:8080/live/all/all/27814.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: PBS HD" tvg-logo="" group-title="USA & CANADA",CAN: PBS HD
+http://iptvglobal.uk:8080/live/all/all/27813.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: PEACH TREE HD" tvg-logo="" group-title="USA & CANADA",CAN: PEACH TREE HD
+http://iptvglobal.uk:8080/live/all/all/27812.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: SHOWCASE HD" tvg-logo="" group-title="USA & CANADA",CAN: SHOWCASE HD
+http://iptvglobal.uk:8080/live/all/all/27811.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: SLICE HD" tvg-logo="" group-title="USA & CANADA",CAN: SLICE HD
+http://iptvglobal.uk:8080/live/all/all/27810.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: SPACE HD" tvg-logo="" group-title="USA & CANADA",CAN: SPACE HD
+http://iptvglobal.uk:8080/live/all/all/27809.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: SPORTSNET 360 HD" tvg-logo="" group-title="USA & CANADA",CAN: SPORTSNET 360 HD
+http://iptvglobal.uk:8080/live/all/all/27808.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: SPORTSNET EAST HD" tvg-logo="" group-title="USA & CANADA",CAN: SPORTSNET EAST HD
+http://iptvglobal.uk:8080/live/all/all/27807.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: SPORTSNET ONE HD" tvg-logo="" group-title="USA & CANADA",CAN: SPORTSNET ONE HD
+http://iptvglobal.uk:8080/live/all/all/27806.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: SPORTSNET ONTARIO HD" tvg-logo="" group-title="USA & CANADA",CAN: SPORTSNET ONTARIO HD
+http://iptvglobal.uk:8080/live/all/all/27805.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: SPORTSNET PACIFIC HD" tvg-logo="" group-title="USA & CANADA",CAN: SPORTSNET PACIFIC HD
+http://iptvglobal.uk:8080/live/all/all/27804.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: SPORTSNET WEST HD" tvg-logo="" group-title="USA & CANADA",CAN: SPORTSNET WEST HD
+http://iptvglobal.uk:8080/live/all/all/27803.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: SPORTSNET WORLD HD" tvg-logo="" group-title="USA & CANADA",CAN: SPORTSNET WORLD HD
+http://iptvglobal.uk:8080/live/all/all/27802.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: TLC HD" tvg-logo="" group-title="USA & CANADA",CAN: TLC HD
+http://iptvglobal.uk:8080/live/all/all/27801.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: TSN HD 1" tvg-logo="" group-title="USA & CANADA",CAN: TSN HD 1
+http://iptvglobal.uk:8080/live/all/all/27800.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: TSN HD 2" tvg-logo="" group-title="USA & CANADA",CAN: TSN HD 2
+http://iptvglobal.uk:8080/live/all/all/27799.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: TSN HD 3" tvg-logo="" group-title="USA & CANADA",CAN: TSN HD 3
+http://iptvglobal.uk:8080/live/all/all/27798.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: TSN HD 4" tvg-logo="" group-title="USA & CANADA",CAN: TSN HD 4
+http://iptvglobal.uk:8080/live/all/all/27797.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: TSN HD 5" tvg-logo="" group-title="USA & CANADA",CAN: TSN HD 5
+http://iptvglobal.uk:8080/live/all/all/27796.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: WEATHER CHANNEL HD" tvg-logo="" group-title="USA & CANADA",CAN: WEATHER CHANNEL HD
+http://iptvglobal.uk:8080/live/all/all/27795.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAN: WORLD HD" tvg-logo="" group-title="USA & CANADA",CAN: WORLD HD
+http://iptvglobal.uk:8080/live/all/all/27794.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CTV TORONTO" tvg-logo="" group-title="USA & CANADA",CA: CTV TORONTO
+http://iptvglobal.uk:8080/live/all/all/6195.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FAM JR" tvg-logo="" group-title="USA & CANADA",CA: FAM JR
+http://iptvglobal.uk:8080/live/all/all/6251.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: A&E" tvg-logo="" group-title="USA & CANADA",CA: A&E
+http://iptvglobal.uk:8080/live/all/all/6191.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Abc Spark" tvg-logo="" group-title="USA & CANADA",CA: Abc Spark
+http://iptvglobal.uk:8080/live/all/all/6190.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Abc West" tvg-logo="" group-title="USA & CANADA",CA: Abc West
+http://iptvglobal.uk:8080/live/all/all/6189.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: AMC" tvg-logo="" group-title="USA & CANADA",CA: AMC
+http://iptvglobal.uk:8080/live/all/all/6188.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: American Heroe's Channel" tvg-logo="" group-title="USA & CANADA",CA: American Heroe's Channel
+http://iptvglobal.uk:8080/live/all/all/6187.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Animal Planet" tvg-logo="" group-title="USA & CANADA",CA: Animal Planet
+http://iptvglobal.uk:8080/live/all/all/6186.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: AUX" tvg-logo="" group-title="USA & CANADA",CA: AUX
+http://iptvglobal.uk:8080/live/all/all/6185.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: BET" tvg-logo="" group-title="USA & CANADA",CA: BET
+http://iptvglobal.uk:8080/live/all/all/6184.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: BNN" tvg-logo="" group-title="USA & CANADA",CA: BNN
+http://iptvglobal.uk:8080/live/all/all/6183.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Bravo" tvg-logo="" group-title="USA & CANADA",CA: Bravo
+http://iptvglobal.uk:8080/live/all/all/6227.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ChCh" tvg-logo="" group-title="USA & CANADA",CA: ChCh
+http://iptvglobal.uk:8080/live/all/all/6225.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Chek News" tvg-logo="" group-title="USA & CANADA",CA: Chek News
+http://iptvglobal.uk:8080/live/all/all/6224.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Chet TV" tvg-logo="" group-title="USA & CANADA",CA: Chet TV
+http://iptvglobal.uk:8080/live/all/all/6223.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CITY TV" tvg-logo="" group-title="USA & CANADA",CA: CITY TV
+http://iptvglobal.uk:8080/live/all/all/6222.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CITYTV HD" tvg-logo="" group-title="USA & CANADA",CA: CITYTV HD
+http://iptvglobal.uk:8080/live/all/all/6221.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CKWS" tvg-logo="" group-title="USA & CANADA",CA: CKWS
+http://iptvglobal.uk:8080/live/all/all/6220.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CMT" tvg-logo="" group-title="USA & CANADA",CA: CMT
+http://iptvglobal.uk:8080/live/all/all/6219.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CN" tvg-logo="" group-title="USA & CANADA",CA: CN
+http://iptvglobal.uk:8080/live/all/all/6218.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CNBC" tvg-logo="" group-title="USA & CANADA",CA: CNBC
+http://iptvglobal.uk:8080/live/all/all/6217.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CNN" tvg-logo="" group-title="USA & CANADA",CA: CNN
+http://iptvglobal.uk:8080/live/all/all/6215.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Comedy" tvg-logo="" group-title="USA & CANADA",CA: Comedy
+http://iptvglobal.uk:8080/live/all/all/6214.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Comedy Gold" tvg-logo="" group-title="USA & CANADA",CA: Comedy Gold
+http://iptvglobal.uk:8080/live/all/all/6213.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Comedy West" tvg-logo="" group-title="USA & CANADA",CA: Comedy West
+http://iptvglobal.uk:8080/live/all/all/6212.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: COOKING CHANNEL" tvg-logo="" group-title="USA & CANADA",CA: COOKING CHANNEL
+http://iptvglobal.uk:8080/live/all/all/6216.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Cottage TV Life" tvg-logo="" group-title="USA & CANADA",CA: Cottage TV Life
+http://iptvglobal.uk:8080/live/all/all/6211.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Crime & Investigation" tvg-logo="" group-title="USA & CANADA",CA: Crime & Investigation
+http://iptvglobal.uk:8080/live/all/all/6226.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CTV" tvg-logo="" group-title="USA & CANADA",CA: CTV
+http://iptvglobal.uk:8080/live/all/all/6210.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: DEJA VIEW" tvg-logo="" group-title="USA & CANADA",CA: DEJA VIEW
+http://iptvglobal.uk:8080/live/all/all/6205.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Discovery Channel" tvg-logo="" group-title="USA & CANADA",CA: Discovery Channel
+http://iptvglobal.uk:8080/live/all/all/6209.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Discovery Science" tvg-logo="" group-title="USA & CANADA",CA: Discovery Science
+http://iptvglobal.uk:8080/live/all/all/6208.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Documentary" tvg-logo="" group-title="USA & CANADA",CA: Documentary
+http://iptvglobal.uk:8080/live/all/all/6207.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: DTOUR" tvg-logo="" group-title="USA & CANADA",CA: DTOUR
+http://iptvglobal.uk:8080/live/all/all/6206.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Family" tvg-logo="" group-title="USA & CANADA",CA: Family
+http://iptvglobal.uk:8080/live/all/all/6203.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Family West" tvg-logo="" group-title="USA & CANADA",CA: Family West
+http://iptvglobal.uk:8080/live/all/all/6252.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FISHING CHANNEL" tvg-logo="" group-title="USA & CANADA",CA: FISHING CHANNEL
+http://iptvglobal.uk:8080/live/all/all/6204.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Food Network" tvg-logo="" group-title="USA & CANADA",CA: Food Network
+http://iptvglobal.uk:8080/live/all/all/6250.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Fox News" tvg-logo="" group-title="USA & CANADA",CA: Fox News
+http://iptvglobal.uk:8080/live/all/all/6249.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FOX-W" tvg-logo="" group-title="USA & CANADA",CA: FOX-W
+http://iptvglobal.uk:8080/live/all/all/6248.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FX" tvg-logo="" group-title="USA & CANADA",CA: FX
+http://iptvglobal.uk:8080/live/all/all/6247.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FYI" tvg-logo="" group-title="USA & CANADA",CA: FYI
+http://iptvglobal.uk:8080/live/all/all/6246.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: G4" tvg-logo="" group-title="USA & CANADA",CA: G4
+http://iptvglobal.uk:8080/live/all/all/6245.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Game TV" tvg-logo="" group-title="USA & CANADA",CA: Game TV
+http://iptvglobal.uk:8080/live/all/all/6244.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: GLOBAL BRITISH COLUMBIA" tvg-logo="" group-title="USA & CANADA",CA: GLOBAL BRITISH COLUMBIA
+http://iptvglobal.uk:8080/live/all/all/6196.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Global Edmonton" tvg-logo="" group-title="USA & CANADA",CA: Global Edmonton
+http://iptvglobal.uk:8080/live/all/all/6243.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: GLOBAL HD" tvg-logo="" group-title="USA & CANADA",CA: GLOBAL HD
+http://iptvglobal.uk:8080/live/all/all/6240.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Global Montreal" tvg-logo="" group-title="USA & CANADA",CA: Global Montreal
+http://iptvglobal.uk:8080/live/all/all/6242.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Global Toronto" tvg-logo="" group-title="USA & CANADA",CA: Global Toronto
+http://iptvglobal.uk:8080/live/all/all/6241.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: HBO 1" tvg-logo="" group-title="USA & CANADA",CA: HBO 1
+http://iptvglobal.uk:8080/live/all/all/6239.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: HBO 2" tvg-logo="" group-title="USA & CANADA",CA: HBO 2
+http://iptvglobal.uk:8080/live/all/all/6238.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: HGTV" tvg-logo="" group-title="USA & CANADA",CA: HGTV
+http://iptvglobal.uk:8080/live/all/all/6237.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: HIFI" tvg-logo="" group-title="USA & CANADA",CA: HIFI
+http://iptvglobal.uk:8080/live/all/all/6235.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: HISTORY CHANNEL" tvg-logo="" group-title="USA & CANADA",CA: HISTORY CHANNEL
+http://iptvglobal.uk:8080/live/all/all/6236.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ICI" tvg-logo="" group-title="USA & CANADA",CA: ICI
+http://iptvglobal.uk:8080/live/all/all/6232.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Independat Film Channel" tvg-logo="" group-title="USA & CANADA",CA: Independat Film Channel
+http://iptvglobal.uk:8080/live/all/all/6231.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: K HD" tvg-logo="" group-title="USA & CANADA",CA: K HD
+http://iptvglobal.uk:8080/live/all/all/6234.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Leafs TV" tvg-logo="" group-title="USA & CANADA",CA: Leafs TV
+http://iptvglobal.uk:8080/live/all/all/6168.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: LIFETIME NETWORK" tvg-logo="" group-title="USA & CANADA",CA: LIFETIME NETWORK
+http://iptvglobal.uk:8080/live/all/all/6229.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: LOVE NATURE" tvg-logo="" group-title="USA & CANADA",CA: LOVE NATURE
+http://iptvglobal.uk:8080/live/all/all/6230.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MSNBC" tvg-logo="" group-title="USA & CANADA",CA: MSNBC
+http://iptvglobal.uk:8080/live/all/all/6228.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MTV" tvg-logo="" group-title="USA & CANADA",CA: MTV
+http://iptvglobal.uk:8080/live/all/all/6282.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MTV2" tvg-logo="" group-title="USA & CANADA",CA: MTV2
+http://iptvglobal.uk:8080/live/all/all/6281.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MUCH MUSIC" tvg-logo="" group-title="USA & CANADA",CA: MUCH MUSIC
+http://iptvglobal.uk:8080/live/all/all/6280.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA:  NAT GEO" tvg-logo="" group-title="USA & CANADA",CA:  NAT GEO
+http://iptvglobal.uk:8080/live/all/all/6279.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA:  NAT GEO WILD" tvg-logo="" group-title="USA & CANADA",CA:  NAT GEO WILD
+http://iptvglobal.uk:8080/live/all/all/6278.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: OLN" tvg-logo="" group-title="USA & CANADA",CA: OLN
+http://iptvglobal.uk:8080/live/all/all/6277.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA:  OWN" tvg-logo="" group-title="USA & CANADA",CA:  OWN
+http://iptvglobal.uk:8080/live/all/all/6276.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA:  PBS-W" tvg-logo="" group-title="USA & CANADA",CA:  PBS-W
+http://iptvglobal.uk:8080/live/all/all/6275.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Rt Tv" tvg-logo="" group-title="USA & CANADA",CA: Rt Tv
+http://iptvglobal.uk:8080/live/all/all/6274.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Slice" tvg-logo="" group-title="USA & CANADA",CA: Slice
+http://iptvglobal.uk:8080/live/all/all/6273.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SLVSC" tvg-logo="" group-title="USA & CANADA",CA: SLVSC
+http://iptvglobal.uk:8080/live/all/all/6272.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SMITHSONIAN CHANNEL" tvg-logo="" group-title="USA & CANADA",CA: SMITHSONIAN CHANNEL
+http://iptvglobal.uk:8080/live/all/all/6268.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Space" tvg-logo="" group-title="USA & CANADA",CA: Space
+http://iptvglobal.uk:8080/live/all/all/6271.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Spike" tvg-logo="" group-title="USA & CANADA",CA: Spike
+http://iptvglobal.uk:8080/live/all/all/6270.ts
+#EXTINF:-1 tvg-ID="Sportsnet 360" tvg-name="CA: SPORTSNET 360" tvg-logo="" group-title="USA & CANADA",CA: SPORTSNET 360
+http://iptvglobal.uk:8080/live/all/all/6167.ts
+#EXTINF:-1 tvg-ID="Sportsnet (Pacific) - Satellite/Digital" tvg-name="CA: SPORTSNET PACIFIC" tvg-logo="" group-title="USA & CANADA",CA: SPORTSNET PACIFIC
+http://iptvglobal.uk:8080/live/all/all/6164.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Sports Net West" tvg-logo="" group-title="USA & CANADA",CA: Sports Net West
+http://iptvglobal.uk:8080/live/all/all/6163.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SUNDANCE" tvg-logo="" group-title="USA & CANADA",CA: SUNDANCE
+http://iptvglobal.uk:8080/live/all/all/6267.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TELEMUNDO" tvg-logo="" group-title="USA & CANADA",CA: TELEMUNDO
+http://iptvglobal.uk:8080/live/all/all/6261.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TLC" tvg-logo="" group-title="USA & CANADA",CA: TLC
+http://iptvglobal.uk:8080/live/all/all/6266.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TMN2W" tvg-logo="" group-title="USA & CANADA",CA: TMN2W
+http://iptvglobal.uk:8080/live/all/all/6265.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Travel and escape" tvg-logo="" group-title="USA & CANADA",CA: Travel and escape
+http://iptvglobal.uk:8080/live/all/all/6264.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TSN HD 1" tvg-logo="" group-title="USA & CANADA",CA: TSN HD 1
+http://iptvglobal.uk:8080/live/all/all/6173.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TSN HD 3" tvg-logo="" group-title="USA & CANADA",CA: TSN HD 3
+http://iptvglobal.uk:8080/live/all/all/6171.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TSN HD 4" tvg-logo="" group-title="USA & CANADA",CA: TSN HD 4
+http://iptvglobal.uk:8080/live/all/all/6170.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TSN HD 5" tvg-logo="" group-title="USA & CANADA",CA: TSN HD 5
+http://iptvglobal.uk:8080/live/all/all/6169.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TV ENCORE" tvg-logo="" group-title="USA & CANADA",CA: TV ENCORE
+http://iptvglobal.uk:8080/live/all/all/6263.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TVO" tvg-logo="" group-title="USA & CANADA",CA: TVO
+http://iptvglobal.uk:8080/live/all/all/6262.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TWN HD" tvg-logo="" group-title="USA & CANADA",CA: TWN HD
+http://iptvglobal.uk:8080/live/all/all/6260.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Viceland" tvg-logo="" group-title="USA & CANADA",CA: Viceland
+http://iptvglobal.uk:8080/live/all/all/6259.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: W Network" tvg-logo="" group-title="USA & CANADA",CA: W Network
+http://iptvglobal.uk:8080/live/all/all/6258.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: WGN" tvg-logo="" group-title="USA & CANADA",CA: WGN
+http://iptvglobal.uk:8080/live/all/all/6257.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: World Fishing Network" tvg-logo="" group-title="USA & CANADA",CA: World Fishing Network
+http://iptvglobal.uk:8080/live/all/all/6256.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Wsbk" tvg-logo="" group-title="USA & CANADA",CA: Wsbk
+http://iptvglobal.uk:8080/live/all/all/6255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: YES" tvg-logo="" group-title="USA & CANADA",CA: YES
+http://iptvglobal.uk:8080/live/all/all/6254.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: BBC Kids" tvg-logo="" group-title="USA & CANADA",CA: BBC Kids
+http://iptvglobal.uk:8080/live/all/all/6197.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Disney" tvg-logo="" group-title="USA & CANADA",CA: Disney
+http://iptvglobal.uk:8080/live/all/all/6199.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Disney Jnr" tvg-logo="" group-title="USA & CANADA",CA: Disney Jnr
+http://iptvglobal.uk:8080/live/all/all/6198.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: HLN" tvg-logo="" group-title="USA & CANADA",CA: HLN
+http://iptvglobal.uk:8080/live/all/all/6233.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Peach Tree TV" tvg-logo="" group-title="USA & CANADA",CA: Peach Tree TV
+http://iptvglobal.uk:8080/live/all/all/6202.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: The Movie Network 1 East" tvg-logo="" group-title="USA & CANADA",CA: The Movie Network 1 East
+http://iptvglobal.uk:8080/live/all/all/6182.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: The Movie Network 2 East" tvg-logo="" group-title="USA & CANADA",CA: The Movie Network 2 East
+http://iptvglobal.uk:8080/live/all/all/6181.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: The Movie Network 3 East" tvg-logo="" group-title="USA & CANADA",CA: The Movie Network 3 East
+http://iptvglobal.uk:8080/live/all/all/6180.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: The Movie Network 3 West" tvg-logo="" group-title="USA & CANADA",CA: The Movie Network 3 West
+http://iptvglobal.uk:8080/live/all/all/6179.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: The Movie Network 4 East" tvg-logo="" group-title="USA & CANADA",CA: The Movie Network 4 East
+http://iptvglobal.uk:8080/live/all/all/6178.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: The Movie Network Encore 1 East" tvg-logo="" group-title="USA & CANADA",CA: The Movie Network Encore 1 East
+http://iptvglobal.uk:8080/live/all/all/6177.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: The Movie Network Encore 1 West" tvg-logo="" group-title="USA & CANADA",CA: The Movie Network Encore 1 West
+http://iptvglobal.uk:8080/live/all/all/6176.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: The Movie Network Encore 2 East" tvg-logo="" group-title="USA & CANADA",CA: The Movie Network Encore 2 East
+http://iptvglobal.uk:8080/live/all/all/6175.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: The Movie Network Encore 2 West" tvg-logo="" group-title="USA & CANADA",CA: The Movie Network Encore 2 West
+http://iptvglobal.uk:8080/live/all/all/6174.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Treehouse TV" tvg-logo="" group-title="USA & CANADA",CA: Treehouse TV
+http://iptvglobal.uk:8080/live/all/all/6201.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: YTV-E" tvg-logo="" group-title="USA & CANADA",CA: YTV-E
+http://iptvglobal.uk:8080/live/all/all/6253.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CARTOONITO" tvg-logo="" group-title="USA & CANADA",CA: CARTOONITO
+http://iptvglobal.uk:8080/live/all/all/6200.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MMA TV" tvg-logo="" group-title="USA & CANADA",CA: MMA TV
+http://iptvglobal.uk:8080/live/all/all/6192.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CA: UFC FIGHT PASS 24-7" tvg-logo="" group-title="USA & CANADA",CA: UFC FIGHT PASS 24-7
+http://iptvglobal.uk:8080/live/all/all/6193.ts
