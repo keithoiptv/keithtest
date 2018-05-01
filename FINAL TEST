@@ -1,0 +1,384 @@
+#EXTM3U#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC One HD" tvg-logo="http://eutvbox.com/slykiptv/channellogo/entertainment/bbcone.png" group-title="IPTV-HD | Entertainment",BBC One HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/1545.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC One HD-B" tvg-logo="http://eutvbox.com/slykiptv/channellogo/entertainment/bbcone.png" group-title="IPTV-HD | Entertainment",BBC One HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/2971.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC One" tvg-logo="" group-title="IPTV-HD | Entertainment",BBC One
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3348.ts
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="ITV HD" tvg-logo="" group-title="IPTV-HD | Entertainment",ITV HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/1549.ts
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="ITV HD-B" tvg-logo="" group-title="IPTV-HD | Entertainment",ITV HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/2975.ts
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="ITV" tvg-logo="" group-title="IPTV-HD | Entertainment",ITV
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3339.ts
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Sky 1 HD" tvg-logo="" group-title="IPTV-HD | Entertainment",Sky 1 HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/664.ts
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Sky 1 HD-B" tvg-logo="" group-title="IPTV-HD | Entertainment",Sky 1 HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/665.ts
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Sky 1" tvg-logo="" group-title="IPTV-HD | Entertainment",Sky 1
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3333.ts
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold HD" tvg-logo="" group-title="IPTV-HD | Entertainment",Gold HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/364.ts
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold HD-B" tvg-logo="" group-title="IPTV-HD | Entertainment",Gold HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/365.ts
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold" tvg-logo="" group-title="IPTV-HD | Entertainment",Gold
+#EXTINF:-1 tvg-id="SkyArts1.uk" tvg-name="Sky Arts HD" tvg-logo="" group-title="IPTV-HD | Entertainment",Sky Arts HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/673.ts
+#EXTINF:-1 tvg-id="SkyArts1.uk" tvg-name="Sky Arts HD-B" tvg-logo="" group-title="IPTV-HD | Entertainment",Sky Arts HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/674.ts
+#EXTINF:-1 tvg-id="SkyArts1.uk" tvg-name="Sky Arts" tvg-logo="" group-title="IPTV-HD | Entertainment",Sky Arts
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3325.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 HD" tvg-logo="" group-title="IPTV-HD | Entertainment",Channel 4 HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/1554.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 HD-B" tvg-logo="" group-title="IPTV-HD | Entertainment",Channel 4 HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/2980.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="" group-title="IPTV-HD | Entertainment",Channel 4
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3319.ts
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="Pick HD" tvg-logo="" group-title="IPTV-HD | Entertainment",Pick HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/1567.ts
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="Pick HD-B" tvg-logo="" group-title="IPTV-HD | Entertainment",Pick HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/2993.ts
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="Pick" tvg-logo="" group-title="IPTV-HD | Entertainment",Pick
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3305.ts
+#EXTINF:-1 tvg-id="VICELAND.uk" tvg-name="Viceland HD" tvg-logo="" group-title="IPTV-HD | Entertainment",Viceland HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/1566.ts
+#EXTINF:-1 tvg-id="VICELAND.uk" tvg-name="Viceland HD-B" tvg-logo="" group-title="IPTV-HD | Entertainment",Viceland HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/2992.ts
+#EXTINF:-1 tvg-id="VICELAND.uk" tvg-name="Viceland" tvg-logo="" group-title="IPTV-HD | Entertainment",Viceland
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3304.ts
+#EXTINF:-1 tvg-id="VintageTV.uk" tvg-name="Vintage TV HD" tvg-logo="" group-title="IPTV-HD | Music",Vintage TV HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3997.ts
+#EXTINF:-1 tvg-id="VintageTV.uk" tvg-name="Vintage TV HD-B" tvg-logo="" group-title="IPTV-HD | Music",Vintage TV HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3998.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sp Main Event HD" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp Main Event HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/721.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sp Main Event HD-B" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp Main Event HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/722.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sp Main Event" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp Main Event
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3223.ts
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sp PL FHD" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp PL FHD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/4162.ts
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sp PL HD" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp PL HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/736.ts
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sp PL HD-B" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp PL HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/737.ts
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sp PL" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp PL
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3224.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sp FootBall FHD" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp FootBall FHD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/4161.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sp FootBall HD" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp FootBall HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/1079.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sp FootBall HD-B" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp FootBall HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/1080.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sp FootBall" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp FootBall
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3225.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sp Golf FHD" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp Golf FHD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/4159.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sp Golf HD" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp Golf HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/733.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sp Golf HD-B" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp Golf HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/734.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sp Golf" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp Golf
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3227.ts
+#EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-name="Sky Sp Box Off HD" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp Box Off HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/739.ts
+#EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-name="Sky Sp Box Off HD-B" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp Box Off HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/740.ts
+#EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-name="Sky Sp Box Off" tvg-logo="" group-title="IPTV-HD | Sports",Sky Sp Box Off
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3250.ts
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 FHD" tvg-logo="" group-title="IPTV-HD | Sports",BT Sport 2 FHD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/4154.ts
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="IPTV-HD | Sports",BT Sport 2 HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/112.ts
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD-B" tvg-logo="" group-title="IPTV-HD | Sports",BT Sport 2 HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/113.ts
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="" group-title="IPTV-HD | Sports",BT Sport 2
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3236.ts
+#EXTINF:-1 tvg-id="ITVBoxOffice.uk" tvg-name="ITV Box Office HD" tvg-logo="" group-title="IPTV-HD | Sports",ITV Box Office HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/1073.ts
+#EXTINF:-1 tvg-id="ITVBoxOffice.uk" tvg-name="ITV Box Office HD-B" tvg-logo="" group-title="IPTV-HD | Sports",ITV Box Office HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/1243.ts
+#EXTINF:-1 tvg-id="ITVBoxOffice.uk" tvg-name="ITV Box Office" tvg-logo="" group-title="IPTV-HD | Sports",ITV Box Office
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3251.ts
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News HD" tvg-logo="" group-title="IPTV-HD | News",Sky News HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/706.ts
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News HD-B" tvg-logo="" group-title="IPTV-HD | News",Sky News HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/707.ts
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News HD" tvg-logo="" group-title="IPTV-HD | News",BBC News HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/58.ts
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News HD-B" tvg-logo="" group-title="IPTV-HD | News",BBC News HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/59.ts
+#EXTINF:-1 tvg-id="FOXNews.uk" tvg-name="Fox News HD" tvg-logo="" group-title="IPTV-HD | News",Fox News HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/352.ts
+#EXTINF:-1 tvg-id="FOXNews.uk" tvg-name="Fox News HD-B" tvg-logo="" group-title="IPTV-HD | News",Fox News HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/353.ts
+#EXTINF:-1 tvg-id="DiscoveryHD.uk" tvg-name="Discovery HD" tvg-logo="" group-title="IPTV-HD | Documentaries",Discovery HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/259.ts
+#EXTINF:-1 tvg-id="DiscoveryHD.uk" tvg-name="Discovery HD-B" tvg-logo="" group-title="IPTV-HD | Documentaries",Discovery HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/260.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="" group-title="IPTV-HD | Documentaries",Discovery
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3393.ts
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-name="RTE One HD" tvg-logo="" group-title="IPTV-HD | Irish",RTE One HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/637.ts
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-name="RTE One HD-B" tvg-logo="" group-title="IPTV-HD | Irish",RTE One HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/638.ts
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-name="RTE One" tvg-logo="" group-title="IPTV-HD | Irish",RTE One
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3344.ts
+#EXTINF:-1 tvg-id="RTETwo.ie" tvg-name="RTE 2 HD" tvg-logo="" group-title="IPTV-HD | Irish",RTE 2 HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/643.ts
+#EXTINF:-1 tvg-id="RTETwo.ie" tvg-name="RTE 2 HD-B" tvg-logo="" group-title="IPTV-HD | Irish",RTE 2 HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/644.ts
+#EXTINF:-1 tvg-id="RTETwo.ie" tvg-name="RTE 2" tvg-logo="" group-title="IPTV-HD | Irish",RTE 2
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3343.ts
+#EXTINF:-1 tvg-id="TV3.ie" tvg-name="TV3 HD" tvg-logo="" group-title="IPTV-HD | Irish",TV3 HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/844.ts
+#EXTINF:-1 tvg-id="TV3.ie" tvg-name="TV3 HD-B" tvg-logo="" group-title="IPTV-HD | Irish",TV3 HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/845.ts
+#EXTINF:-1 tvg-id="TV3.ie" tvg-name="TV3" tvg-logo="" group-title="IPTV-HD | Irish",TV3
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3342.ts
+#EXTINF:-1 tvg-id="RTENewsNow.ie" tvg-name="RTE News Now HD" tvg-logo="" group-title="IPTV-HD | Irish",RTE News Now HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/2083.ts
+#EXTINF:-1 tvg-id="RTENewsNow.ie" tvg-name="RTE News Now HD-B" tvg-logo="" group-title="IPTV-HD | Irish",RTE News Now HD-B
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/4025.ts
+#EXTINF:-1 tvg-id="RTENewsNow.ie" tvg-name="RTE News Now" tvg-logo="" group-title="IPTV-HD | Irish",RTE News Now
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/4026.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | A&E HD" tvg-logo="" group-title="IPTV-HD | USA",USA | A&E HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3418.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | DISCOVERY HD" tvg-logo="" group-title="IPTV-HD | USA",USA | DISCOVERY HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3419.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | FOX NEWS HD" tvg-logo="" group-title="IPTV-HD | USA",USA | FOX NEWS HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3444.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | FOX BUSINESS NETWORK HD" tvg-logo="" group-title="IPTV-HD | USA",USA | FOX BUSINESS NETWORK HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3447.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | GOLF HD" tvg-logo="" group-title="IPTV-HD | USA",USA | GOLF HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3423.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | HGTV HD" tvg-logo="" group-title="IPTV-HD | USA",USA | HGTV HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3445.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | TV LAND HD" tvg-logo="" group-title="IPTV-HD | USA",USA | TV LAND HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3452.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | VICELAND HD" tvg-logo="" group-title="IPTV-HD | USA",USA | VICELAND HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3416.ts
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1 HD" tvg-logo="" group-title="IPTV-HD | Other Sports",TSN 1 HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3402.ts
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2 HD" tvg-logo="" group-title="IPTV-HD | Other Sports",TSN 2 HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3401.ts
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3 HD" tvg-logo="" group-title="IPTV-HD | Other Sports",TSN 3 HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3400.ts
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4 HD" tvg-logo="" group-title="IPTV-HD | Other Sports",TSN 4 HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3399.ts
+#EXTINF:-1 tvg-id="" tvg-name="TSN 5 HD" tvg-logo="" group-title="IPTV-HD | Other Sports",TSN 5 HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3398.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 11 HD" tvg-logo="" group-title="IPTV-HD | Other Sports",beIN Sports 11 HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/2677.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 12 HD" tvg-logo="" group-title="IPTV-HD | Other Sports",beIN Sports 12 HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/2676.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN HD" tvg-logo="" group-title="IPTV-HD | Other Sports",NBCSN HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/3403.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportsNet 360 HD" tvg-logo="" group-title="IPTV-HD | Other Sports",SportsNet 360 HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/4117.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportsNet East HD" tvg-logo="" group-title="IPTV-HD | Other Sports",SportsNet East HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/4114.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportsNet One HD" tvg-logo="" group-title="IPTV-HD | Other Sports",SportsNet One HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/4116.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportsNet Ontario HD" tvg-logo="" group-title="IPTV-HD | Other Sports",SportsNet Ontario HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/4115.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportsNet Pacific HD" tvg-logo="" group-title="IPTV-HD | Other Sports",SportsNet Pacific HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/4111.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportsNet West HD" tvg-logo="" group-title="IPTV-HD | Other Sports",SportsNet West HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/4113.ts
+#EXTINF:-1 tvg-id="" tvg-name="SportsNet World HD" tvg-logo="" group-title="IPTV-HD | Other Sports",SportsNet World HD
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/4112.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL | Channel-1" tvg-logo="" group-title="IPTV-HD | Other Sports",EPL | Channel-1
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/2694.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL | Channel-2" tvg-logo="" group-title="IPTV-HD | Other Sports",EPL | Channel-2
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/2693.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL | Channel-3" tvg-logo="" group-title="IPTV-HD | Other Sports",EPL | Channel-3
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/2692.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL | Channel-4" tvg-logo="" group-title="IPTV-HD | Other Sports",EPL | Channel-4
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/2691.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL | Channel-5" tvg-logo="" group-title="IPTV-HD | Other Sports",EPL | Channel-5
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/2690.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL | Channel-6" tvg-logo="" group-title="IPTV-HD | Other Sports",EPL | Channel-6
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/2689.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL | Channel-7" tvg-logo="" group-title="IPTV-HD | Other Sports",EPL | Channel-7
+http://ss1.slykdns.com:5005/live/kiet0303/pass0303/2688.ts
+#EXTINF:-1 tvg-ID="BBC1.uk" tvg-name="UK:BBC 1 HD" tvg-logo="http://endlessiptv.xyz/pl/ukent/bbc%20one.png" group-title="UK ENTERTAINMENT",UK:BBC 1 HD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5858.ts
+#EXTINF:-1 tvg-ID="BBC1.uk" tvg-name="UK:BBC1 HD" tvg-logo="http://endlessiptv.xyz/pl/ukent/bbc%20one.png" group-title="UK ENTERTAINMENT",UK:BBC1 HD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5850.ts
+#EXTINF:-1 tvg-ID="BBC1NIreland.uk" tvg-name="UK:BBC 1 NI HD" tvg-logo="http://endlessiptv.xyz/pl/ukent/bbc%20one%20ni.png" group-title="UK ENTERTAINMENT",UK:BBC 1 NI HD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/9356.ts
+#EXTINF:-1 tvg-ID="ITV.uk" tvg-name="UK:ITV1 HD" tvg-logo="http://endlessiptv.xyz/pl/ukent/itv.jpg" group-title="UK ENTERTAINMENT",UK:ITV1 HD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5856.ts
+#EXTINF:-1 tvg-ID="ITV.uk" tvg-name="UK:ITV 1 FHD 1080P." tvg-logo="http://endlessiptv.xyz/pl/ukent/itv.jpg" group-title="UK ENTERTAINMENT",UK:ITV 1 FHD 1080P.
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5831.ts
+#EXTINF:-1 tvg-ID="ITV.uk" tvg-name="UK: ITV 1 SD" tvg-logo="http://endlessiptv.xyz/pl/ukent/itv.jpg" group-title="UK ENTERTAINMENT",UK: ITV 1 SD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5860.ts
+#EXTINF:-1 tvg-ID="RT.uk" tvg-name="UK:RTE News Now.." tvg-logo="http://static.iptv-epg.com/ie/RTENewsNow.ie.png" group-title="IRISH",UK:RTE News Now..
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5960.ts
+#EXTINF:-1 tvg-ID="RTEOne.ie" tvg-name="UK: RTE1 SD" tvg-logo="http://static.iptv-epg.com/ie/RTEOne.ie.png" group-title="IRISH",UK: RTE1 SD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/9673.ts
+#EXTINF:-1 tvg-ID="TV3.ie" tvg-name="UK:TV3 HD" tvg-logo="http://static.iptv-epg.com/ie/TV3.ie.png" group-title="IRISH",UK:TV3 HD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5992.ts
+#EXTINF:-1 tvg-ID="Sky1.uk" tvg-name="UK:Sky 1 HD" tvg-logo="http://endlessiptv.xyz/pl/ukent/sky%201%20hd.png" group-title="UK ENTERTAINMENT",UK:Sky 1 HD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5156.ts
+#EXTINF:-1 tvg-ID="Sky1.uk" tvg-name="UK:Sky1 HD.." tvg-logo="http://endlessiptv.xyz/pl/ukent/sky%201%20hd.png" group-title="UK ENTERTAINMENT",UK:Sky1 HD..
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5822.ts
+#EXTINF:-1 tvg-ID="SkyArts1.uk" tvg-name="UK:Sky Arts" tvg-logo="http://endlessiptv.xyz/pl/ukent/sky%20arts%20hd.png" group-title="UK ENTERTAINMENT",UK:Sky Arts
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5967.ts
+#EXTINF:-1 tvg-ID="PickTV.uk" tvg-name="UK:Pick.." tvg-logo="http://endlessiptv.xyz/pl/uk/pick.png" group-title="UK ENTERTAINMENT",UK:Pick..
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5950.ts
+#EXTINF:-1 tvg-ID="VintageTV.uk" tvg-name="UK:Vintage TV" tvg-logo="http://endlessiptv.xyz/pl/uk%20music/vintage%2520tv.png" group-title="UK MUSIC",UK:Vintage TV
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5998.ts
+#EXTINF:-1 tvg-ID="DiscoveryChannel.uk" tvg-name="UK:Discovery channel" tvg-logo="http://endlessiptv.xyz/pl/ukdoc/discovery%2520channel%2520hd.png" group-title="UK DOCUMENTARY",UK:Discovery channel
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5907.ts
+#EXTINF:-1 tvg-ID="DiscoveryChannel.uk" tvg-name="UK: DISCOVERY CHANNEL HD" tvg-logo="http://endlessiptv.xyz/pl/ukdoc/discovery%2520channel%2520hd.png" group-title="UK DOCUMENTARY",UK: DISCOVERY CHANNEL HD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/7769.ts
+#EXTINF:-1 tvg-ID="VICELAND.uk" tvg-name="UK:Viceland.." tvg-logo="http://endlessiptv.xyz/pl/ukent/viceland.png" group-title="UK ENTERTAINMENT",UK:Viceland..
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5997.ts
+#EXTINF:-1 tvg-ID="DMAX" tvg-name="UK:DMAX.." tvg-logo="http://endlessiptv.xyz/pl/ukdoc/dmax.png" group-title="UK DOCUMENTARY",UK:DMAX..
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5911.ts
+#EXTINF:-1 tvg-ID="5star.uk" tvg-name="UK:5 Star" tvg-logo="http://endlessiptv.xyz/pl/ukent/5star.png" group-title="UK ENTERTAINMENT",UK:5 Star
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5852.ts
+#EXTINF:-1 tvg-ID="SkySportsMainEvent.uk" tvg-name="UK:SKY SPORTS MAIN EVENT SD" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20main%20event.png" group-title="UK SKY SPORTS",UK:SKY SPORTS MAIN EVENT SD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5973.ts
+#EXTINF:-1 tvg-ID="SkySportsMainEvent.uk" tvg-name="VIP :SKY SPORTS MAIN EVENT  1080 P" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20main%20event.png" group-title="UK SKY SPORTS",VIP :SKY SPORTS MAIN EVENT  1080 P
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/7733.ts
+#EXTINF:-1 tvg-ID="SkySportsMainEvent.uk" tvg-name="VIP:SKY SPORTS MAIN EVENT FHD" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20main%20event.png" group-title="UK SKY SPORTS",VIP:SKY SPORTS MAIN EVENT FHD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/4840.ts
+#EXTINF:-1 tvg-ID="SkySportsGolf.uk" tvg-name="UK:SKY SPORTS GOLF SD" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20golf.png" group-title="UK SKY SPORTS",UK:SKY SPORTS GOLF SD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5976.ts
+#EXTINF:-1 tvg-ID="SkySportsGolf.uk" tvg-name="VIP : SKY SPORTS GOLF HD 1080P" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20golf.png" group-title="UK SKY SPORTS",VIP : SKY SPORTS GOLF HD 1080P
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/7730.ts
+#EXTINF:-1 tvg-ID="SkySportsGolf.uk" tvg-name="VIP : SKY SPORTS GOLF FHD" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20golf.png" group-title="UK SKY SPORTS",VIP : SKY SPORTS GOLF FHD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/4843.ts
+#EXTINF:-1 tvg-ID="SkySportsPremierLeague.uk" tvg-name="UK:SKY SPORTS PREMIER LEAGUE SD" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20premier%20league.png" group-title="UK SKY SPORTS",UK:SKY SPORTS PREMIER LEAGUE SD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5977.ts
+#EXTINF:-1 tvg-ID="SkySportsPremierLeague.uk" tvg-name="VIP :SKY SPORTS PREMIER LEAGUE 1080 P" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20premier%20league.png" group-title="UK SKY SPORTS",VIP :SKY SPORTS PREMIER LEAGUE 1080 P
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/7729.ts
+#EXTINF:-1 tvg-ID="SkySportsPremierLeague.uk" tvg-name="VIP : SKY SPORTS PREMIER LEAGUE  FHD" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20premier%20league.png" group-title="UK SKY SPORTS",VIP : SKY SPORTS PREMIER LEAGUE  FHD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/4844.ts
+#EXTINF:-1 tvg-ID="SkySportsFootball.uk" tvg-name="UK: SKY SPORTS FOOTBALL HD" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20football.png" group-title="UK SKY SPORTS",UK: SKY SPORTS FOOTBALL HD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/24493.ts
+#EXTINF:-1 tvg-ID="BTSport2.uk" tvg-name="UK:BT Sport 2" tvg-logo="http://endlessiptv.xyz/pl/btsports/bt%20sport%202%20hd.png" group-title="UK BT SPORTS",UK:BT Sport 2
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5042.ts
+#EXTINF:-1 tvg-ID="BTSport2.uk" tvg-name="UK:BT Sport 2.." tvg-logo="http://endlessiptv.xyz/pl/btsports/bt%20sport%202%20hd.png" group-title="UK BT SPORTS",UK:BT Sport 2..
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5879.ts
+#EXTINF:-1 tvg-ID="BTSport2.uk" tvg-name="UK:BT SPORTS 2 HD" tvg-logo="http://endlessiptv.xyz/pl/btsports/bt%20sport%202%20hd.png" group-title="UK BT SPORTS",UK:BT SPORTS 2 HD
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/5046.ts
+#EXTINF:-1 tvg-ID="BTSport2.uk" tvg-name="VIP : BT Sport 2 1080P" tvg-logo="http://endlessiptv.xyz/pl/btsports/bt%20sport%202%20hd.png" group-title="UK BT SPORTS",VIP : BT Sport 2 1080P
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/7735.ts
+#EXTINF:-1 tvg-ID="BTSport2.uk" tvg-name="VIP : BT FHD 2" tvg-logo="http://endlessiptv.xyz/pl/btsports/bt%20sport%202%20hd.png" group-title="UK BT SPORTS",VIP : BT FHD 2
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/4838.ts
+#EXTINF:-1 tvg-ID="Sky1.uk" tvg-name="UK: SKY 1 FHD (LOCAL)" tvg-logo="http://endlessiptv.xyz/pl/ukent/sky%201%20hd.png" group-title="UK ENTERTAINMENT",UK: SKY 1 FHD (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/10870.ts
+#EXTINF:-1 tvg-ID="SkyArts1.uk" tvg-name="VIP UK: SKY ARTS HD (LOCAL)" tvg-logo="http://endlessiptv.xyz/pl/ukent/sky%20arts%20hd.png" group-title="UK ENTERTAINMENT",VIP UK: SKY ARTS HD (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/13373.ts
+#EXTINF:-1 tvg-ID="GOLD.uk" tvg-name="VIP UK: GOLD SD (LOCAL)" tvg-logo="http://endlessiptv.xyz/pl/ukent/gold.jpg" group-title="UK ENTERTAINMENT",VIP UK: GOLD SD (LOCAL)
+#EXTINF:-1 tvg-ID="DiscoveryChannel.uk" tvg-name="UK:DISCOVERY CHANNEL HD (LOCAL)" tvg-logo="http://endlessiptv.xyz/pl/ukdoc/discovery%2520channel%2520hd.png" group-title="UK DOCUMENTARY",UK:DISCOVERY CHANNEL HD (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/10874.ts
+#EXTINF:-1 tvg-ID="SkySportsPremierLeague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAGUE FHD* (LOCAl LINK 1)" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20premier%20league.png" group-title="UK SKY SPORTS",UK: SKY SPORTS PREMIER LEAGUE FHD* (LOCAl LINK 1)
+#EXTINF:-1 tvg-ID="SkySportsMainEvent.uk" tvg-name="UK: SKY SPORTS MAIN EVENT FHD* (LOCAl LINK 1)" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20main%20event.png" group-title="UK SKY SPORTS",UK: SKY SPORTS MAIN EVENT FHD* (LOCAl LINK 1)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/13900.ts
+#EXTINF:-1 tvg-ID="SkySportsGolf.uk" tvg-name="UK: SKY SPORTS GOLF FHD* (LOCAl LINK 1)" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20golf.png" group-title="UK SKY SPORTS",UK: SKY SPORTS GOLF FHD* (LOCAl LINK 1)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/13896.ts
+#EXTINF:-1 tvg-ID="SkySportsFootball.uk" tvg-name="UK: SKY SPORTS FOOTBALL FHD(LOCAl LINK 1)" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20football.png" group-title="UK SKY SPORTS",UK: SKY SPORTS FOOTBALL FHD(LOCAl LINK 1)
+#EXTINF:-1 tvg-ID="GOLD.uk" tvg-name="UK: GOLD (LOCAl LINK 1)" tvg-logo="http://endlessiptv.xyz/pl/ukent/gold.jpg" group-title="UK ENTERTAINMENT",UK: GOLD (LOCAl LINK 1)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/13992.ts
+#EXTINF:-1 tvg-ID="GOLDPlus1.uk" tvg-name="UK: GOLD +1" tvg-logo="" group-title="UK ENTERTAINMENT",UK: GOLD +1
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/29429.ts
+#EXTINF:-1 tvg-ID="DMAX" tvg-name="UK: DMAX (LOCAl LINK 1)" tvg-logo="http://endlessiptv.xyz/pl/ukdoc/dmax.png" group-title="UK DOCUMENTARY",UK: DMAX (LOCAl LINK 1)
+#EXTINF:-1 tvg-ID="DiscoveryChannel.uk" tvg-name="UK: DISCOVERY HD* (LOCAl LINK 1)" tvg-logo="http://endlessiptv.xyz/pl/ukdoc/discovery%2520channel%2520hd.png" group-title="UK DOCUMENTARY",UK: DISCOVERY HD* (LOCAl LINK 1)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/13941.ts
+#EXTINF:-1 tvg-ID="BTSport2.uk" tvg-name="UK: BT SPORTS 2 HD* (LOCAl LINK 1)" tvg-logo="http://endlessiptv.xyz/pl/btsports/bt%20sport%202%20hd.png" group-title="UK BT SPORTS",UK: BT SPORTS 2 HD* (LOCAl LINK 1)
+#EXTINF:-1 tvg-ID="5star.uk" tvg-name="UK: 5Star (LOCAl LINK 1)" tvg-logo="http://endlessiptv.xyz/pl/uk/5star.png" group-title="UK ENTERTAINMENT",UK: 5Star (LOCAl LINK 1)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/14063.ts
+#EXTINF:-1 tvg-ID="AandE.us" tvg-name="US: A&E HD (LOCAL)" tvg-logo="http://static.iptv-epg.com/us/AandE.us.png" group-title="US ENTERTAINMENT",US: A&E HD (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/12362.ts
+#EXTINF:-1 tvg-ID="CBSSportsNetwork.us" tvg-name="US: CBS Sports Network HD (LOCAL)" tvg-logo="http://static.iptv-epg.com/us/CBSSportsNetwork.us.png" group-title="US SPORTS",US: CBS Sports Network HD (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/12353.ts
+#EXTINF:-1 tvg-ID="ElReyNetwork.us" tvg-name="US: El Rey Network HD (LOCAL)" tvg-logo="http://static.iptv-epg.com/us/ElRey.us.png" group-title="US ENTERTAINMENT",US: El Rey Network HD (LOCAL)
+http://a#EXTINF:-1 tvg-ID="FOXBusiness.us" tvg-name="US: FOX Business Network HD (LOCAL)" tvg-logo="http://endlessiptv.xyz/pl/uk%20news/fox%2520news%2520channel.png" group-title="UK NEWS",US: FOX Business Network HD (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/12326.ts
+#EXTINF:-1 tvg-ID="FOX" tvg-name="US: FOX HD (LOCAL)" tvg-logo="http://static.iptv-epg.com/uk/FOX.uk.png" group-title="US ENTERTAINMENT",US: FOX HD (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/12325.ts
+#EXTINF:-1 tvg-ID="HGTV.us" tvg-name="US: HGTV HD (LOCAL)" tvg-logo="http://static.iptv-epg.com/us/HGTV.us.png" group-title="US ENTERTAINMENT",US: HGTV HD (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/12310.ts
+#EXTINF:-1 tvg-ID="FOXNews.uk" tvg-name="US: Fox News HD (LOCAL)" tvg-logo="http://endlessiptv.xyz/pl/uk%20news/fox%2520news%2520channel.png" group-title="UK NEWS",US: Fox News HD (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/12327.ts
+#EXTINF:-1 tvg-ID="NBC Sports Network" tvg-name="US: NBCSN HD (LOCAL)" tvg-logo="http://endlessiptv.xyz/pl/sports/nbcsn.png" group-title="US SPORTS",US: NBCSN HD (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/12294.ts
+#EXTINF:-1 tvg-ID="CNN.us" tvg-name="US:CNN HD (LOCAL)" tvg-logo="http://endlessiptv.xyz/pl/uk%20news/cnn%2520hd.png" group-title="UK NEWS",US:CNN HD (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/12348.ts
+#EXTINF:-1 tvg-ID="SportsnetEast.ca" tvg-name="|CA| SPORTSNET EAST (DIRECT)" tvg-logo="http://endlessiptv.xyz/pl/sports/sportsnet.png" group-title="US SPORTS",|CA| SPORTSNET EAST (DIRECT)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/12389.ts
+#EXTINF:-1 tvg-ID="SportsnetOntario.ca" tvg-name="|CA| SPORTSNET ONTARIO HD (DIRECT)" tvg-logo="http://endlessiptv.xyz/pl/sports/sportsnet.png" group-title="US SPORTS",|CA| SPORTSNET ONTARIO HD (DIRECT)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/12390.ts
+#EXTINF:-1 tvg-ID="SportsNetWorld.ca" tvg-name="|CA| SPORTSNET WORLD HD (DIRECT)" tvg-logo="http://endlessiptv.xyz/pl/sports/sportsnet.png" group-title="US SPORTS",|CA| SPORTSNET WORLD HD (DIRECT)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/12388.ts
+#EXTINF:-1 tvg-ID="beINSportsHD11.mena" tvg-name="AR:BEIN_SPORTS_11HD( ENGLISH LOCAL)" tvg-logo="http://endlessiptv.xyz/pl/sports/bein11.png" group-title="BEIN NETWORK",AR:BEIN_SPORTS_11HD( ENGLISH LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/13791.ts
+#EXTINF:-1 tvg-ID="beINSportsHD12.mena" tvg-name="AR:BEIN_SPORTS_12HD( ENGLISH LOCAL)" tvg-logo="http://endlessiptv.xyz/pl/sports/bein12.png" group-title="BEIN NETWORK",AR:BEIN_SPORTS_12HD( ENGLISH LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/13790.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EPL3" tvg-logo="https://cjoint.net/?gu3fvpd8g6" group-title="LIVE EVENTS (3PM KO)",EPL3
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/14352.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EPL4" tvg-logo="https://cjoint.net/?gu3fvpd8g6" group-title="LIVE EVENTS (3PM KO)",EPL4
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/14353.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EPL5" tvg-logo="https://cjoint.net/?gu3fvpd8g6" group-title="LIVE EVENTS (3PM KO)",EPL5
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/14354.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EPL6" tvg-logo="https://cjoint.net/?gu3fvpd8g6" group-title="LIVE EVENTS (3PM KO)",EPL6
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/14355.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EPL7" tvg-logo="https://cjoint.net/?gu3fvpd8g6" group-title="LIVE EVENTS (3PM KO)",EPL7
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/28156.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EPL8" tvg-logo="https://cjoint.net/?gu3fvpd8g6" group-title="LIVE EVENTS (3PM KO)",EPL8
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/28458.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLD1" tvg-logo="https://1fichier.com/?1axb53o4nv" group-title="LIVE EVENTS (3PM KO)",GOLD1
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/14356.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLD2" tvg-logo="https://1fichier.com/?1axb53o4nv" group-title="LIVE EVENTS (3PM KO)",GOLD2
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/14357.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLD3" tvg-logo="https://1fichier.com/?1axb53o4nv" group-title="LIVE EVENTS (3PM KO)",GOLD3
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/14358.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLD4" tvg-logo="https://1fichier.com/?1axb53o4nv" group-title="LIVE EVENTS (3PM KO)",GOLD4
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/14359.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLD5" tvg-logo="https://1fichier.com/?1axb53o4nv" group-title="LIVE EVENTS (3PM KO)",GOLD5
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/14360.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLD6" tvg-logo="https://1fichier.com/?1axb53o4nv" group-title="LIVE EVENTS (3PM KO)",GOLD6
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/14361.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EPL1 Tottenham v Watford / Mon 20.00" tvg-logo="https://cjoint.net/?gu3fvpd8g6" group-title="LIVE EVENTS (3PM KO)",EPL1 Tottenham v Watford / Mon 20.00
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/28647.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EPL2" tvg-logo="https://cjoint.net/?gu3fvpd8g6" group-title="LIVE EVENTS (3PM KO)",EPL2
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/28648.ts
+#EXTINF:-1 tvg-ID="RTENewsNow.ie" tvg-name="IR:RTE News Now (backup)" tvg-logo="http://static.iptv-epg.com/ie/RTENewsNow.ie.png" group-title="IRISH",IR:RTE News Now (backup)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/15861.ts
+#EXTINF:-1 tvg-ID="RTEOne.ie" tvg-name="IRE: RTE1 HD (LOCAL)" tvg-logo="http://static.iptv-epg.com/ie/RTEOne.ie.png" group-title="IRISH",IRE: RTE1 HD (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/14761.ts
+#EXTINF:-1 tvg-ID="RTEOne.ie" tvg-name="IR:RTE 1 (LOCAL)" tvg-logo="http://static.iptv-epg.com/ie/RTEOne.ie.png" group-title="IRISH",IR:RTE 1 (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/15885.ts
+#EXTINF:-1 tvg-ID="RTEOne.ie" tvg-name="IR:RTE 1 (backup)" tvg-logo="http://static.iptv-epg.com/ie/RTEOne.ie.png" group-title="IRISH",IR:RTE 1 (backup)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/15863.ts
+#EXTINF:-1 tvg-ID="TV3.ie" tvg-name="IR:Tv3 (LOCAL)" tvg-logo="http://static.iptv-epg.com/ie/TV3.ie.png" group-title="IRISH",IR:Tv3 (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/15869.ts
+#EXTINF:-1 tvg-ID="TV3.ie" tvg-name="IR:TV 3 (backup)" tvg-logo="http://static.iptv-epg.com/ie/TV3.ie.png" group-title="IRISH",IR:TV 3 (backup)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/15860.ts
+#EXTINF:-1 tvg-ID="SkySportsFootball.uk" tvg-name="IR:Sky Sports Football (LOCAL)" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20football.png" group-title="IRISH",IR:Sky Sports Football (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/15877.ts
+#EXTINF:-1 tvg-ID="SkySportsGolf.uk" tvg-name="IR:Sky Sports Golf (LOCAL)" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20golf.png" group-title="IRISH",IR:Sky Sports Golf (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/15874.ts
+#EXTINF:-1 tvg-ID="SkySportsMainEvent.uk" tvg-name="IR:Sky Sports Main Event (LOCAL)" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20main%20event.png" group-title="IRISH",IR:Sky Sports Main Event (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/15873.ts
+#EXTINF:-1 tvg-ID="SkySportsPremierLeague.uk" tvg-name="IR:Sky Sports Premier League (LOCAL)" tvg-logo="http://endlessiptv.xyz/pl/skysports/sky%20sports%20premier%20league.png" group-title="IRISH",IR:Sky Sports Premier League (LOCAL)
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/15875.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[24/7 SHOWS] Only Fools and Horses" tvg-logo="" group-title="24/7 SERIES",[24/7 SHOWS] Only Fools and Horses
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/29089.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[24/7 KIDS] The Simpsons" tvg-logo="" group-title="24/7 SERIES",[24/7 KIDS] The Simpsons
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/29234.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[24/7 MOVIES] LATEST 1" tvg-logo="" group-title="24/7 SERIES",[24/7 MOVIES] LATEST 1
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/29223.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[24/7 MOVIES] LATEST 2" tvg-logo="" group-title="24/7 SERIES",[24/7 MOVIES] LATEST 2
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/29222.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[24/7 SHOWS] Only Fools and Horses - Christmas Specials" tvg-logo="" group-title="24/7 SERIES",[24/7 SHOWS] Only Fools and Horses - Christmas Specials
+#EXTINF:-1 tvg-ID="" tvg-name="[24/7 SHOWS] Porridge" tvg-logo="" group-title="24/7 SERIES",[24/7 SHOWS] Porridge
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/29200.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[24/7 SHOWS} Breaking Bad 1-3" tvg-logo="" group-title="24/7 SERIES",[24/7 SHOWS} Breaking Bad 1-3
+http://absoluteeliteiptv.co.uk:8080/live/lukeunlimited2/resellerline/29205.ts
+
+
